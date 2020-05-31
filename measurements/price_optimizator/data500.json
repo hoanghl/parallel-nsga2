@@ -1,0 +1,5112 @@
+[
+  {
+    "price_A": 27000000000,
+    "price_Rent": 22000000,
+    "price_B": 7542857143,
+    "price_C": 35514310090.64507,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 1.222222222222222,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7000000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 15713573802.514868,
+    "price_D": 3426980137,
+    "case": 1,
+    "diem_tuongdoi": 2.1428571428571432,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 33000000000,
+    "price_Rent": 163800000,
+    "price_B": 56160000000,
+    "price_C": 60727051663.11565,
+    "price_D": 66239815657,
+    "diem_tuongdoi": 8.367385812080364,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 18900000000,
+    "price_Rent": 17000000,
+    "price_B": 5828571429,
+    "price_C": 39718928851.90934,
+    "price_D": 10382723890,
+    "case": 1,
+    "diem_tuongdoi": 1.3492063492063493,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 50000000000,
+    "price_Rent": 260000000,
+    "price_B": 89142857143,
+    "price_C": 50420836939.77462,
+    "price_D": 43801974521,
+    "diem_tuongdoi": 5.583750649159432,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 15500000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 20016998412.476242,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 5.645161290322582,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6000000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 14976629704.213482,
+    "price_D": 9287529153,
+    "case": 1,
+    "diem_tuongdoi": 2.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 50260000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 152080081605.31158,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 0.2984480700358138,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2850000000,
+    "price_Rent": 6000000,
+    "price_B": 2057142857,
+    "price_C": 4226802804.4138374,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.1578947368421053,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6000000000,
+    "price_Rent": 7000000,
+    "price_B": 2400000000,
+    "price_C": 11730096168.285646,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 1.7500000000000002,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12900000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 39866242412.92839,
+    "price_D": 24263329398,
+    "case": 1,
+    "diem_tuongdoi": 2.3255813953488373,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6000000000,
+    "price_Rent": 5000000,
+    "price_B": 1714285714,
+    "price_C": 5811721326.523499,
+    "price_D": 6190774742,
+    "case": 1,
+    "diem_tuongdoi": 1.25,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9500000000,
+    "price_Rent": 12000000,
+    "price_B": 4114285714,
+    "price_C": 24960501116.31835,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 1.8947368421052628,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 17000000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 32371397171.71717,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 1.3235294117647058,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6500000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 13452371212.165932,
+    "price_D": 8697217069,
+    "case": 1,
+    "diem_tuongdoi": 3.4615384615384617,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 38000000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 37117769223.77627,
+    "price_D": 54509732944,
+    "case": 1,
+    "diem_tuongdoi": 1.973684210526316,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11000000000,
+    "price_Rent": 16000000,
+    "price_B": 5485714286,
+    "price_C": 13221882682.045132,
+    "price_D": 2435999166,
+    "case": 1,
+    "diem_tuongdoi": 2.181818181818182,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6000000000,
+    "price_Rent": 6000000,
+    "price_B": 2057142857,
+    "price_C": 5791507467.789894,
+    "price_D": 1727891156,
+    "case": 1,
+    "diem_tuongdoi": 1.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 15000000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 42833974146.04202,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12500000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 16816527999.359005,
+    "price_D": 5913229103,
+    "case": 1,
+    "diem_tuongdoi": 1.7999999999999998,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2000000000,
+    "price_Rent": 6000000,
+    "price_B": 2057142857,
+    "price_C": 2883817698.2591877,
+    "price_D": 642857143,
+    "case": 1,
+    "diem_tuongdoi": 4.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8500000000,
+    "price_Rent": 23000000,
+    "price_B": 7885714286,
+    "price_C": 7835494677.431273,
+    "price_D": 7874493731,
+    "case": 1,
+    "diem_tuongdoi": 1.0911451613604322,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2920000000,
+    "price_Rent": 5500000,
+    "price_B": 1885714286,
+    "price_C": 4108156528.5378127,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.8253424657534247,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7200000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 7420787739.444521,
+    "price_D": 12969602941,
+    "case": 1,
+    "diem_tuongdoi": 4.166666666666667,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12000000000,
+    "price_Rent": 18000000,
+    "price_B": 6171428571,
+    "price_C": 13906455843.360832,
+    "price_D": 10438793117,
+    "case": 1,
+    "diem_tuongdoi": 2.25,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5700000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 185605114845.3275,
+    "price_D": 85763842065,
+    "case": 1,
+    "diem_tuongdoi": 5.2105263157894735,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7000000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 6659607911.5624275,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.1428571428571432,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4700000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 4430590597.610379,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.133942527769992,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4800000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 8698564686.083965,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7800000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 9247488156.763807,
+    "price_D": 11480646846,
+    "case": 1,
+    "diem_tuongdoi": 4.8076923076923075,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9300000000,
+    "price_Rent": 46000000,
+    "price_B": 15771428571,
+    "price_C": 8536086202.211829,
+    "price_D": 12924352554,
+    "case": 1,
+    "diem_tuongdoi": 0.8929365710313402,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16200000000,
+    "price_Rent": 8500000,
+    "price_B": 2914285714,
+    "price_C": 16193788606.38272,
+    "price_D": 11914761905,
+    "case": 1,
+    "diem_tuongdoi": 0.7870370370370371,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6000000000,
+    "price_Rent": 14000000,
+    "price_B": 4800000000,
+    "price_C": 6255018369.627359,
+    "price_D": 8202143624,
+    "case": 1,
+    "diem_tuongdoi": 3.5000000000000004,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 990000000,
+    "price_Rent": 3000000,
+    "price_B": 1028571429,
+    "price_C": 1480500000,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 4.545454545454545,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4500000000,
+    "price_Rent": 14000000,
+    "price_B": 4800000000,
+    "price_C": 10291827138.378862,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 4.666666666666667,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2380000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 3085088601.5325665,
+    "price_D": 7530180511,
+    "case": 1,
+    "diem_tuongdoi": 5.033613445378151,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12500000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 15975037650.421328,
+    "price_D": 22376327554,
+    "case": 1,
+    "diem_tuongdoi": 2.4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5200000000,
+    "price_Rent": 7000000,
+    "price_B": 2400000000,
+    "price_C": 4789363258.717835,
+    "price_D": 10927630142,
+    "case": 1,
+    "diem_tuongdoi": 1.0515697953638026,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 15550000000,
+    "price_Rent": 18000000,
+    "price_B": 6171428571,
+    "price_C": 27768606559.845,
+    "price_D": 25028435369,
+    "case": 1,
+    "diem_tuongdoi": 1.7363344051446945,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4700000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 7509932940.516275,
+    "price_D": 2029435805,
+    "case": 1,
+    "diem_tuongdoi": 2.553191489361702,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3900000000,
+    "price_Rent": 5000000,
+    "price_B": 1714285714,
+    "price_C": 8853087742.819279,
+    "price_D": 8143929465,
+    "case": 1,
+    "diem_tuongdoi": 1.9230769230769231,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2950000000,
+    "price_Rent": 7000000,
+    "price_B": 2400000000,
+    "price_C": 7524443475.871489,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.559322033898305,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 10000000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 25948287622.962036,
+    "price_D": 52174243490,
+    "case": 1,
+    "diem_tuongdoi": 3.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4700000000,
+    "price_Rent": 4500000,
+    "price_B": 1542857143,
+    "price_C": 5122468786.99643,
+    "price_D": 4767669927,
+    "case": 1,
+    "diem_tuongdoi": 1.4361702127659575,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3600000000,
+    "price_Rent": 5700000,
+    "price_B": 1954285714,
+    "price_C": 6164217578.327547,
+    "price_D": 1731601732,
+    "case": 1,
+    "diem_tuongdoi": 2.375,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2650000000,
+    "price_Rent": 5000000,
+    "price_B": 1714285714,
+    "price_C": 5351865141.037681,
+    "price_D": 2361449775,
+    "case": 1,
+    "diem_tuongdoi": 2.830188679245283,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5500000000,
+    "price_Rent": 12000000,
+    "price_B": 4114285714,
+    "price_C": 15674000294.309553,
+    "price_D": 5097499909,
+    "case": 1,
+    "diem_tuongdoi": 3.2727272727272725,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2350000000,
+    "price_Rent": 6000000,
+    "price_B": 2057142857,
+    "price_C": 6719660314.691451,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.829787234042553,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3850000000,
+    "price_Rent": 7000000,
+    "price_B": 2400000000,
+    "price_C": 5952631179.72004,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.7272727272727275,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9900000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 11545036454.082838,
+    "price_D": 9512949992,
+    "case": 1,
+    "diem_tuongdoi": 4.545454545454545,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3150000000,
+    "price_Rent": 7600000,
+    "price_B": 2605714286,
+    "price_C": 3071743161.02639,
+    "price_D": 4603057120,
+    "case": 1,
+    "diem_tuongdoi": 3.619047619047619,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6600000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 10656151484.54376,
+    "price_D": 2949541984,
+    "case": 1,
+    "diem_tuongdoi": 4.545454545454545,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4600000000,
+    "price_Rent": 16000000,
+    "price_B": 5485714286,
+    "price_C": 4939141912.858802,
+    "price_D": 11278326701,
+    "case": 1,
+    "diem_tuongdoi": 5.173913043478262,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 13000000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 16749999273.376852,
+    "price_D": 4330380952,
+    "case": 1,
+    "diem_tuongdoi": 3.4615384615384617,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3550000000,
+    "price_Rent": 5000000,
+    "price_B": 1714285714,
+    "price_C": 3634400487.5562186,
+    "price_D": 2662800472,
+    "case": 1,
+    "diem_tuongdoi": 2.112676056338028,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4100000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 6535373024.075731,
+    "price_D": 7262857143,
+    "case": 1,
+    "diem_tuongdoi": 2.926829268292683,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 23500000000,
+    "price_Rent": 95000000,
+    "price_B": 32571428571,
+    "price_C": 22024321712.65573,
+    "price_D": 58415994951,
+    "case": 1,
+    "diem_tuongdoi": 1.8602589630973,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6000000000,
+    "price_Rent": 55000000,
+    "price_B": 18857142857,
+    "price_C": 26523766492.64204,
+    "price_D": 23592084241,
+    "diem_tuongdoi": 9.430547688213075,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2700000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 5619865022.806336,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 5.444444444444445,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3250000000,
+    "price_Rent": 5000000,
+    "price_B": 1714285714,
+    "price_C": 4964175269.872902,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.307692307692308,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 92000000000,
+    "price_Rent": 300000000,
+    "price_B": 102857142857,
+    "price_C": 90231869228.95992,
+    "price_D": 70480362812,
+    "case": 1,
+    "diem_tuongdoi": 4.039059363565172,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6500000000,
+    "price_Rent": 7000000,
+    "price_B": 2400000000,
+    "price_C": 6739319659.916688,
+    "price_D": 1298701299,
+    "case": 1,
+    "diem_tuongdoi": 1.6153846153846152,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16800000000,
+    "price_Rent": 17000000,
+    "price_B": 5828571429,
+    "price_C": 20693798773.346466,
+    "price_D": 5529278170,
+    "case": 1,
+    "diem_tuongdoi": 1.5178571428571428,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5500000000,
+    "price_Rent": 13500000,
+    "price_B": 4628571429,
+    "price_C": 9829452121.821127,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.6818181818181817,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 20000000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 34597094360.670525,
+    "price_D": 11041246753,
+    "case": 1,
+    "diem_tuongdoi": 3.75,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 41000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 43757693470.13098,
+    "price_D": 25461803165,
+    "case": 1,
+    "diem_tuongdoi": 3.6585365853658542,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 15000000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 48790643993.67376,
+    "price_D": 117182188532,
+    "case": 1,
+    "diem_tuongdoi": 4.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4500000000,
+    "price_Rent": 12000000,
+    "price_B": 4114285714,
+    "price_C": 6762052770.098494,
+    "price_D": 37506493506,
+    "case": 1,
+    "diem_tuongdoi": 4.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8500000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 31002253521.12676,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 4.411764705882353,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7000000000,
+    "price_Rent": 12000000,
+    "price_B": 4114285714,
+    "price_C": 8760343566.034819,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.571428571428571,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3500000000,
+    "price_Rent": 6000000,
+    "price_B": 2057142857,
+    "price_C": 4782692136.292041,
+    "price_D": 4180571429,
+    "case": 1,
+    "diem_tuongdoi": 2.571428571428571,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4300000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 15589203100.046442,
+    "price_D": 14545454545,
+    "case": 1,
+    "diem_tuongdoi": 2.7906976744186047,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3450000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 6026704458.602012,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 4.3478260869565215,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 53000000000,
+    "price_Rent": 180000000,
+    "price_B": 61714285714,
+    "price_C": 48887132889.648834,
+    "price_D": 102466043638,
+    "case": 1,
+    "diem_tuongdoi": 1.1199366883479565,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9500000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 10046011129.042807,
+    "price_D": 9589147800,
+    "diem_tuongdoi": 5.490957911724765,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 65000000000,
+    "price_Rent": 80000000,
+    "price_B": 27428571429,
+    "price_C": 122145965978.8944,
+    "price_D": 95441400095,
+    "case": 1,
+    "diem_tuongdoi": 1.846153846153846,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7800000000,
+    "price_Rent": 27000000,
+    "price_B": 9257142857,
+    "price_C": 7360664551.128639,
+    "price_D": 6979810496,
+    "case": 1,
+    "diem_tuongdoi": 2.183747122619482,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4000000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 3701237677.605194,
+    "price_D": 731428571,
+    "case": 1,
+    "diem_tuongdoi": 1.2654709700649258,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 22500000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 118846851935.12306,
+    "price_D": 80571510466,
+    "diem_tuongdoi": 8.350000000000001,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3700000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 9380773955.773954,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 5.864864864864866,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1800000000,
+    "price_Rent": 4000000,
+    "price_B": 1371428571,
+    "price_C": 4343614574.547136,
+    "price_D": 8250133260,
+    "case": 1,
+    "diem_tuongdoi": 3.333333333333334,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 71000000000,
+    "price_Rent": 300000000,
+    "price_B": 102857142857,
+    "price_C": 108224333709.20259,
+    "price_D": 95674069884,
+    "diem_tuongdoi": 7.076697090465874,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8500000000,
+    "price_Rent": 27000000,
+    "price_B": 9257142857,
+    "price_C": 8305261142.312412,
+    "price_D": 3619394067,
+    "case": 1,
+    "diem_tuongdoi": 3.8544773077200722,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 70000000000,
+    "price_Rent": 300000000,
+    "price_B": 102857142857,
+    "price_C": 508805811024.8782,
+    "price_D": 558026909642,
+    "diem_tuongdoi": 8.264285714285714,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 32000000000,
+    "price_Rent": 115000000,
+    "price_B": 39428571429,
+    "price_C": 163519570615.74512,
+    "price_D": 1768635115891,
+    "case": 1,
+    "diem_tuongdoi": 5.3125,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11000000000,
+    "price_Rent": 46000000,
+    "price_B": 15771428571,
+    "price_C": 16159472665.792068,
+    "price_D": 18036543326,
+    "diem_tuongdoi": 7.688663001935653,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 13500000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 23316656166.08441,
+    "price_D": 17945061085,
+    "case": 1,
+    "diem_tuongdoi": 5.444444444444445,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9199000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 34495310726.31072,
+    "price_D": 2596571429,
+    "case": 1,
+    "diem_tuongdoi": 1.6306120230459833,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5600000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 6558630252.1008415,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.1428571428571432,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 26800000000,
+    "price_Rent": 70000000,
+    "price_B": 24000000000,
+    "price_C": 24902549540.659683,
+    "price_D": 62791466281,
+    "case": 1,
+    "diem_tuongdoi": 1.4599804863053794,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12000000000,
+    "price_Rent": 35000000,
+    "price_B": 12000000000,
+    "price_C": 12556028273.106083,
+    "price_D": 22722804131,
+    "case": 1,
+    "diem_tuongdoi": 4.375000000000001,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6100000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 10348897063.109417,
+    "price_D": 2682986660,
+    "case": 1,
+    "diem_tuongdoi": 1.9672131147540983,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 31000000000,
+    "price_Rent": 173625000,
+    "price_B": 59528571429,
+    "price_C": 39331237860.05788,
+    "price_D": 156745161796,
+    "diem_tuongdoi": 8.383808721621305,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16000000000,
+    "price_Rent": 45000000,
+    "price_B": 15428571429,
+    "price_C": 16627619663.725746,
+    "price_D": 88843445669,
+    "case": 1,
+    "diem_tuongdoi": 4.21875,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 20000000000,
+    "price_Rent": 80000000,
+    "price_B": 27428571429,
+    "price_C": 27143173740.35763,
+    "price_D": 28741227980,
+    "case": 1,
+    "diem_tuongdoi": 5.800000000000001,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 53000000000,
+    "price_Rent": 350000000,
+    "price_B": 120000000000,
+    "price_C": 59044444558.77965,
+    "price_D": 112025984572,
+    "diem_tuongdoi": 7.119636159327203,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 18000000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 24631515356.93765,
+    "price_D": 37623043623,
+    "case": 1,
+    "diem_tuongdoi": 2.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 110000000000,
+    "price_Rent": 250000000,
+    "price_B": 85714285714,
+    "price_C": 256396726890.1358,
+    "price_D": 104070338797,
+    "case": 1,
+    "diem_tuongdoi": 3.4090909090909087,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16400000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 23059671887.33001,
+    "price_D": 11697137556,
+    "case": 1,
+    "diem_tuongdoi": 3.6585365853658542,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 99360000000,
+    "price_Rent": 115000000,
+    "price_B": 39428571429,
+    "price_C": 92437001046.14633,
+    "price_D": 25034013605,
+    "case": 1,
+    "diem_tuongdoi": 1.5162042301461005,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 54000000000,
+    "price_Rent": 144900000,
+    "price_B": 49680000000,
+    "price_C": 99207960712.22131,
+    "price_D": 66438834379,
+    "case": 1,
+    "diem_tuongdoi": 4.0249999999999995,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 27000000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 27609063578.91251,
+    "price_D": 44036734649,
+    "case": 1,
+    "diem_tuongdoi": 2.7777777777777777,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 17000000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 17546054381.86162,
+    "price_D": 19064073884,
+    "case": 1,
+    "diem_tuongdoi": 3.5294117647058827,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8600000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 8712639734.951212,
+    "price_D": 9640991736,
+    "case": 1,
+    "diem_tuongdoi": 5.186046511627907,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11000000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 15601847603.349806,
+    "price_D": 34131892491,
+    "case": 1,
+    "diem_tuongdoi": 5.363636363636364,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6000000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 38585463129.99783,
+    "price_D": 5375843152,
+    "case": 1,
+    "diem_tuongdoi": 2.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1230000000,
+    "price_Rent": 4500000,
+    "price_B": 1542857143,
+    "price_C": 2708154665.2930784,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 5.390243902439024,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 10900000000,
+    "price_Rent": 28000000,
+    "price_B": 9600000000,
+    "price_C": 10622584613.13872,
+    "price_D": 5428257015,
+    "case": 1,
+    "diem_tuongdoi": 3.7274523538473376,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 30000000000,
+    "price_Rent": 150000000,
+    "price_B": 51428571429,
+    "price_C": 66345053180.3905,
+    "price_D": 33793402001,
+    "diem_tuongdoi": 7.65,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9000000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 9438958782.874016,
+    "price_D": 12630770435,
+    "case": 1,
+    "diem_tuongdoi": 3.333333333333334,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 24000000000,
+    "price_Rent": 90000000,
+    "price_B": 30857142857,
+    "price_C": 39013643041.69724,
+    "price_D": 38045540995,
+    "case": 1,
+    "diem_tuongdoi": 5.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7500000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 7388223743.576685,
+    "price_D": 24139285714,
+    "case": 1,
+    "diem_tuongdoi": 4.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 10500000000,
+    "price_Rent": 46290000,
+    "price_B": 15870857143,
+    "price_C": 17215008885.74817,
+    "price_D": 12862385289,
+    "diem_tuongdoi": 7.098894421576419,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8500000000,
+    "price_Rent": 37000000,
+    "price_B": 12685714286,
+    "price_C": 11146227547.73044,
+    "price_D": 50768900191,
+    "diem_tuongdoi": 7.857865948988017,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 14000000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 16054561847.286238,
+    "price_D": 34180986592,
+    "case": 1,
+    "diem_tuongdoi": 4.2857142857142865,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 115000000000,
+    "price_Rent": 200000000,
+    "price_B": 68571428571,
+    "price_C": 158829671995.37585,
+    "price_D": 226710700253,
+    "case": 1,
+    "diem_tuongdoi": 2.6086956521739135,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3600000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 4510528276.847693,
+    "price_D": 19636363636,
+    "case": 1,
+    "diem_tuongdoi": 3.333333333333334,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1280000000,
+    "price_Rent": 3000000,
+    "price_B": 1028571429,
+    "price_C": 2556565827.3303256,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.515625,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 100000000000,
+    "price_Rent": 276000000,
+    "price_B": 94628571429,
+    "price_C": 104758422466.65425,
+    "price_D": 117996447638,
+    "case": 1,
+    "diem_tuongdoi": 4.14,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7350000000,
+    "price_Rent": 16000000,
+    "price_B": 5485714286,
+    "price_C": 7346583333.333332,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.2653061224489797,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 14500000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 13812246926.739523,
+    "price_D": 11166974736,
+    "case": 1,
+    "diem_tuongdoi": 2.0689655172413794,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2450000000,
+    "price_Rent": 12000000,
+    "price_B": 4114285714,
+    "price_C": 3892530500.308636,
+    "price_D": 17207173779,
+    "diem_tuongdoi": 8.33054736159702,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 13000000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 18115088253.999878,
+    "price_D": 31543946687,
+    "case": 1,
+    "diem_tuongdoi": 3.4615384615384617,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 17500000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 24779856648.576927,
+    "price_D": 19888760915,
+    "case": 1,
+    "diem_tuongdoi": 3.428571428571429,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 21000000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 44418782139.8026,
+    "price_D": 26083390294,
+    "case": 1,
+    "diem_tuongdoi": 3.5714285714285716,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4550000000,
+    "price_Rent": 26000000,
+    "price_B": 8914285714,
+    "price_C": 10596920873.758432,
+    "price_D": 24371521754,
+    "diem_tuongdoi": 9.035714285714286,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 25000000000,
+    "price_Rent": 90000000,
+    "price_B": 30857142857,
+    "price_C": 73655486179.35727,
+    "price_D": 76172741003,
+    "case": 1,
+    "diem_tuongdoi": 5.32,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 33500000000,
+    "price_Rent": 138870000,
+    "price_B": 47612571429,
+    "price_C": 51452215972.378784,
+    "price_D": 37063352346,
+    "case": 1,
+    "diem_tuongdoi": 5.974447761194031,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 31500000000,
+    "price_Rent": 130000000,
+    "price_B": 44571428571,
+    "price_C": 58629761169.72975,
+    "price_D": 125872715711,
+    "case": 1,
+    "diem_tuongdoi": 5.952380952380953,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 21600000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 68307991700.9981,
+    "price_D": 32849195292,
+    "case": 1,
+    "diem_tuongdoi": 3.4722222222222223,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3000000000,
+    "price_Rent": 4000000,
+    "price_B": 1371428571,
+    "price_C": 6748047390.379867,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 45000000000,
+    "price_Rent": 200000000,
+    "price_B": 68571428571,
+    "price_C": 47227291198.38572,
+    "price_D": 83020587192,
+    "diem_tuongdoi": 6.4008166879559285,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 18000000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 17079898885.25816,
+    "price_D": 27385748368,
+    "case": 1,
+    "diem_tuongdoi": 2.4441635701615545,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8500000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 10948627115.284546,
+    "price_D": 33983390116,
+    "diem_tuongdoi": 8.767201716488657,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 19000000000,
+    "price_Rent": 55000000,
+    "price_B": 18857142857,
+    "price_C": 17364001804.88267,
+    "price_D": 7165875039,
+    "case": 1,
+    "diem_tuongdoi": 0.694741591796503,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8200000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 8763457141.749979,
+    "price_D": 5914285714,
+    "case": 1,
+    "diem_tuongdoi": 3.6585365853658542,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5500000000,
+    "price_Rent": 1000000,
+    "price_B": 342857143,
+    "price_C": 9110763199.22446,
+    "price_D": 7054888831,
+    "case": 1,
+    "diem_tuongdoi": 0.27272727272727276,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16500000000,
+    "price_Rent": 80000000,
+    "price_B": 27428571429,
+    "price_C": 46325961984.816414,
+    "price_D": 15931220253,
+    "diem_tuongdoi": 7.568181818181819,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 100460000000,
+    "price_Rent": 200000000,
+    "price_B": 68571428571,
+    "price_C": 100152574851.59459,
+    "price_D": 106454825563,
+    "case": 1,
+    "diem_tuongdoi": 2.986263189329086,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4100000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 4460475288.9029665,
+    "price_D": 1645714286,
+    "case": 1,
+    "diem_tuongdoi": 3.6585365853658542,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2750000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 3964292063.985969,
+    "price_D": 7188311688,
+    "case": 1,
+    "diem_tuongdoi": 5.363636363636364,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9200000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 16609246937.159477,
+    "price_D": 9523809524,
+    "diem_tuongdoi": 7.172695826354312,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1950000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 4138564034.287524,
+    "price_D": 0,
+    "diem_tuongdoi": 7.719230769230769,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 10800000000,
+    "price_Rent": 23000000,
+    "price_B": 7885714286,
+    "price_C": 13356359092.941456,
+    "price_D": 3428512171,
+    "case": 1,
+    "diem_tuongdoi": 3.1944444444444446,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 55000000000,
+    "price_Rent": 115800000,
+    "price_B": 39702857143,
+    "price_C": 75685822413.15532,
+    "price_D": 339073639297,
+    "case": 1,
+    "diem_tuongdoi": 3.158181818181818,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8900000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 11950049539.835388,
+    "price_D": 24578562771,
+    "case": 1,
+    "diem_tuongdoi": 5.044943820224719,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9500000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 8558421350.467062,
+    "price_D": 36249814555,
+    "case": 1,
+    "diem_tuongdoi": 0.04432289719506333,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 13900000000,
+    "price_Rent": 65000000,
+    "price_B": 22285714286,
+    "price_C": 45006046968.19793,
+    "price_D": 106910333642,
+    "diem_tuongdoi": 8.475179856115108,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4000000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 5634383129.782879,
+    "price_D": 10025383707,
+    "case": 1,
+    "diem_tuongdoi": 3.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7500000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 6760700410.800709,
+    "price_D": 61376097004,
+    "case": 1,
+    "diem_tuongdoi": 0.07133607200472536,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 49000000000,
+    "price_Rent": 200000000,
+    "price_B": 68571428571,
+    "price_C": 56733061964.52809,
+    "price_D": 37208047682,
+    "case": 1,
+    "diem_tuongdoi": 5.89795918367347,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 76000000000,
+    "price_Rent": 420000000,
+    "price_B": 144000000000,
+    "price_C": 85022728618.3529,
+    "price_D": 206506787204,
+    "diem_tuongdoi": 7.587604595347128,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 19000000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 29698475944.295128,
+    "price_D": 8101190854,
+    "case": 1,
+    "diem_tuongdoi": 3.1578947368421053,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3700000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 9211731397.125488,
+    "price_D": 14278276344,
+    "case": 1,
+    "diem_tuongdoi": 5.864864864864866,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7500000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 7266481864.138301,
+    "price_D": 65400459802,
+    "case": 1,
+    "diem_tuongdoi": 3.443212427588673,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 50000000000,
+    "price_Rent": 162720000,
+    "price_B": 55789714286,
+    "price_C": 52348177242.52092,
+    "price_D": 144382510091,
+    "case": 1,
+    "diem_tuongdoi": 4.8816,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12000000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 16033067744.476734,
+    "price_D": 21390245952,
+    "diem_tuongdoi": 7.882414548493142,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7500000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 8003889919.593006,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 4.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 41000000000,
+    "price_Rent": 225000000,
+    "price_B": 77142857143,
+    "price_C": 100406732258.08456,
+    "price_D": 247493803446,
+    "diem_tuongdoi": 8.913414634146342,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 95000000000,
+    "price_Rent": 400000000,
+    "price_B": 137142857143,
+    "price_C": 112853981763.79411,
+    "price_D": 370729057237,
+    "diem_tuongdoi": 7.269399136179722,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 24000000000,
+    "price_Rent": 55000000,
+    "price_B": 18857142857,
+    "price_C": 24981970865.21377,
+    "price_D": 23212928143,
+    "case": 1,
+    "diem_tuongdoi": 3.4375,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 52000000000,
+    "price_Rent": 120000000,
+    "price_B": 41142857143,
+    "price_C": 49319229001.87644,
+    "price_D": 92242984366,
+    "case": 1,
+    "diem_tuongdoi": 2.422335578727348,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16000000000,
+    "price_Rent": 200000000,
+    "price_B": 68571428571,
+    "price_C": 70400000339.98148,
+    "price_D": 146308067851,
+    "diem_tuongdoi": 9.575000000000001,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5300000000,
+    "price_Rent": 17000000,
+    "price_B": 5828571429,
+    "price_C": 6686587167.926389,
+    "price_D": 9649483893,
+    "case": 1,
+    "diem_tuongdoi": 4.811320754716981,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 30000000000,
+    "price_Rent": 120000000,
+    "price_B": 41142857143,
+    "price_C": 34739296083.93747,
+    "price_D": 54644780082,
+    "case": 1,
+    "diem_tuongdoi": 5.800000000000001,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5500000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 9526092038.447155,
+    "price_D": 21132613246,
+    "diem_tuongdoi": 9.121233054815239,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8100000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 11886501828.60514,
+    "price_D": 11751351769,
+    "case": 1,
+    "diem_tuongdoi": 3.703703703703704,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12000000000,
+    "price_Rent": 23000000,
+    "price_B": 7885714286,
+    "price_C": 72865029355.42732,
+    "price_D": 10362857143,
+    "case": 1,
+    "diem_tuongdoi": 2.875,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7750000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 8587205585.760659,
+    "price_D": 10870600664,
+    "case": 1,
+    "diem_tuongdoi": 3.870967741935484,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1700000000,
+    "price_Rent": 5000000,
+    "price_B": 1714285714,
+    "price_C": 2754637659.0701113,
+    "price_D": 3870129870,
+    "case": 1,
+    "diem_tuongdoi": 4.411764705882353,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6800000000,
+    "price_Rent": 39500000,
+    "price_B": 13542857143,
+    "price_C": 7563027412.280346,
+    "price_D": 15701298701,
+    "diem_tuongdoi": 7.6213986149768145,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11400000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 14518567384.467966,
+    "price_D": 24588937521,
+    "case": 1,
+    "diem_tuongdoi": 2.631578947368421,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5400000000,
+    "price_Rent": 13000000,
+    "price_B": 4457142857,
+    "price_C": 9311871294.139185,
+    "price_D": 5430857143,
+    "case": 1,
+    "diem_tuongdoi": 3.611111111111111,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 23000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 32138396467.490845,
+    "price_D": 29199025142,
+    "diem_tuongdoi": 6.9103899633770745,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1500000000,
+    "price_Rent": 12000000,
+    "price_B": 4114285714,
+    "price_C": 2633237051.718335,
+    "price_D": 0,
+    "diem_tuongdoi": 8.332815879307859,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 14900000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 25253502733.031727,
+    "price_D": 44390812367,
+    "diem_tuongdoi": 8.959262104750422,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4790000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 4610937155.349496,
+    "price_D": 5112536443,
+    "case": 1,
+    "diem_tuongdoi": 3.1308680099112305,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4300000000,
+    "price_Rent": 7000000,
+    "price_B": 2400000000,
+    "price_C": 11915076468.589949,
+    "price_D": 16094127612,
+    "case": 1,
+    "diem_tuongdoi": 2.441860465116279,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3000000000,
+    "price_Rent": 7000000,
+    "price_B": 2400000000,
+    "price_C": 5226653199.57963,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.5000000000000004,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5850000000,
+    "price_Rent": 17000000,
+    "price_B": 5828571429,
+    "price_C": 7763043917.358624,
+    "price_D": 5722597403,
+    "case": 1,
+    "diem_tuongdoi": 4.3589743589743595,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 58000000000,
+    "price_Rent": 200000000,
+    "price_B": 68571428571,
+    "price_C": 80780874852.40811,
+    "price_D": 150770277254,
+    "case": 1,
+    "diem_tuongdoi": 5.137931034482759,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 15800000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 14797448227.51984,
+    "price_D": 26347849032,
+    "case": 1,
+    "diem_tuongdoi": 1.827367808607089,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8300000000,
+    "price_Rent": 22000000,
+    "price_B": 7542857143,
+    "price_C": 13848615413.990564,
+    "price_D": 37826346957,
+    "case": 1,
+    "diem_tuongdoi": 3.9759036144578315,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11500000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 12835551458.89545,
+    "price_D": 1098738701299,
+    "diem_tuongdoi": 8.274781005654742,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4500000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 5664493604.65232,
+    "price_D": 3040989286,
+    "case": 1,
+    "diem_tuongdoi": 5.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16800000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 28168235892.577065,
+    "price_D": 22555966275,
+    "diem_tuongdoi": 7.9135804550731015,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11300000000,
+    "price_Rent": 34500000,
+    "price_B": 11828571429,
+    "price_C": 14004224840.57251,
+    "price_D": 20330330728,
+    "case": 1,
+    "diem_tuongdoi": 4.579646017699115,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6800000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 8665445777.65873,
+    "price_D": 3044359352,
+    "case": 1,
+    "diem_tuongdoi": 2.2058823529411766,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3500000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 5982612089.925239,
+    "price_D": 4506170835,
+    "case": 1,
+    "diem_tuongdoi": 4.2857142857142865,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5200000000,
+    "price_Rent": 11000000,
+    "price_B": 3771428571,
+    "price_C": 6392335631.525096,
+    "price_D": 8416844873,
+    "case": 1,
+    "diem_tuongdoi": 3.173076923076923,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3700000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 10253263443.889038,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 5.864864864864866,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 13500000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 17484335075.58032,
+    "price_D": 21893671415,
+    "case": 1,
+    "diem_tuongdoi": 2.7777777777777777,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4450000000,
+    "price_Rent": 11000000,
+    "price_B": 3771428571,
+    "price_C": 13872092378.919619,
+    "price_D": 1659857143,
+    "case": 1,
+    "diem_tuongdoi": 3.707865168539326,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 10000000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 10237581969.608305,
+    "price_D": 14972040185,
+    "case": 1,
+    "diem_tuongdoi": 3.75,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 21500000000,
+    "price_Rent": 75000000,
+    "price_B": 25714285714,
+    "price_C": 21238122732.399803,
+    "price_D": 30540878908,
+    "case": 1,
+    "diem_tuongdoi": 4.390983098604194,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 75000000000,
+    "price_Rent": 250000000,
+    "price_B": 85714285714,
+    "price_C": 96660134213.53548,
+    "price_D": 81408834843,
+    "case": 1,
+    "diem_tuongdoi": 5.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3900000000,
+    "price_Rent": 7500000,
+    "price_B": 2571428571,
+    "price_C": 7067454869.454228,
+    "price_D": 7145974026,
+    "case": 1,
+    "diem_tuongdoi": 2.884615384615385,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 18000000000,
+    "price_Rent": 35000000,
+    "price_B": 12000000000,
+    "price_C": 19210852329.835407,
+    "price_D": 12573201930,
+    "case": 1,
+    "diem_tuongdoi": 2.916666666666667,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 41000000000,
+    "price_Rent": 250000000,
+    "price_B": 85714285714,
+    "price_C": 63775128873.254715,
+    "price_D": 61556314286,
+    "diem_tuongdoi": 7.86180515654929,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 90000000000,
+    "price_Rent": 1000000000,
+    "price_B": 342857142857,
+    "price_C": 179652053087.9941,
+    "price_D": 384511865428,
+    "diem_tuongdoi": 9.374927801996979,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11000000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 12656845479.742113,
+    "price_D": 17414085532,
+    "case": 1,
+    "diem_tuongdoi": 4.090909090909091,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12000000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 16077324012.115509,
+    "price_D": 7486984683,
+    "case": 1,
+    "diem_tuongdoi": 3.75,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4100000000,
+    "price_Rent": 9000000,
+    "price_B": 3085714286,
+    "price_C": 6220000000,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.2926829268292686,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 28500000000,
+    "price_Rent": 90000000,
+    "price_B": 30857142857,
+    "price_C": 27099321759.838398,
+    "price_D": 40680632684,
+    "case": 1,
+    "diem_tuongdoi": 2.5426697541024526,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 56000000000,
+    "price_Rent": 175000000,
+    "price_B": 60000000000,
+    "price_C": 56183343768.06846,
+    "price_D": 59965123082,
+    "case": 1,
+    "diem_tuongdoi": 4.6875,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9800000000,
+    "price_Rent": 60100000,
+    "price_B": 20605714286,
+    "price_C": 35585636119.16007,
+    "price_D": 39441267005,
+    "diem_tuongdoi": 9.141605216252136,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8300000000,
+    "price_Rent": 12000000,
+    "price_B": 4114285714,
+    "price_C": 9782730407.621489,
+    "price_D": 8006978287,
+    "case": 1,
+    "diem_tuongdoi": 2.1686746987951806,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 120000000000,
+    "price_Rent": 260000000,
+    "price_B": 89142857143,
+    "price_C": 136160012949.53522,
+    "price_D": 270713082663,
+    "case": 1,
+    "diem_tuongdoi": 3.25,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5350000000,
+    "price_Rent": 11200000,
+    "price_B": 3840000000,
+    "price_C": 6876054235.796882,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.1401869158878504,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3280000000,
+    "price_Rent": 7000000,
+    "price_B": 2400000000,
+    "price_C": 3540279674.9736123,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.201219512195122,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4600000000,
+    "price_Rent": 11000000,
+    "price_B": 3771428571,
+    "price_C": 8840621687.47104,
+    "price_D": 887142857,
+    "case": 1,
+    "diem_tuongdoi": 3.5869565217391304,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 55000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 247032067758.1157,
+    "price_D": 7790476190,
+    "case": 1,
+    "diem_tuongdoi": 2.7272727272727275,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8800000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 10739436260.079594,
+    "price_D": 9706591566,
+    "case": 1,
+    "diem_tuongdoi": 5.090909090909091,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9500000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 13378627200.000002,
+    "price_D": 28509090909,
+    "diem_tuongdoi": 7.843290562406016,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4500000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 5406389539.149675,
+    "price_D": 12375859435,
+    "diem_tuongdoi": 8.207993817223242,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 25800000000,
+    "price_Rent": 85000000,
+    "price_B": 29142857143,
+    "price_C": 33326590782.089493,
+    "price_D": 70374796968,
+    "case": 1,
+    "diem_tuongdoi": 4.941860465116279,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 17000000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 15693847083.32915,
+    "price_D": 37821691850,
+    "case": 1,
+    "diem_tuongdoi": 1.1583737744974978,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 29000000000,
+    "price_Rent": 95000000,
+    "price_B": 32571428571,
+    "price_C": 32447485156.405037,
+    "price_D": 32509557599,
+    "case": 1,
+    "diem_tuongdoi": 4.913793103448276,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 65000000000,
+    "price_Rent": 150000000,
+    "price_B": 51428571429,
+    "price_C": 67003041296.1726,
+    "price_D": 109940563681,
+    "case": 1,
+    "diem_tuongdoi": 3.4615384615384617,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3200000000,
+    "price_Rent": 6000000,
+    "price_B": 2057142857,
+    "price_C": 3342317315.1663957,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.8125,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 47000000000,
+    "price_Rent": 125000000,
+    "price_B": 42857142857,
+    "price_C": 51985049066.93335,
+    "price_D": 20004447483,
+    "case": 1,
+    "diem_tuongdoi": 3.9893617021276597,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6500000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 10417663116.901598,
+    "price_D": 10105123722,
+    "case": 1,
+    "diem_tuongdoi": 4.615384615384616,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8600000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 12671323512.095512,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 5.186046511627907,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 25000000000,
+    "price_Rent": 90000000,
+    "price_B": 30857142857,
+    "price_C": 26556538217.445576,
+    "price_D": 42357869275,
+    "case": 1,
+    "diem_tuongdoi": 5.32,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6800000000,
+    "price_Rent": 18000000,
+    "price_B": 6171428571,
+    "price_C": 7451750000,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.9705882352941173,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6200000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 9168757906.961216,
+    "price_D": 9902574759,
+    "case": 1,
+    "diem_tuongdoi": 3.629032258064516,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2600000000,
+    "price_Rent": 6000000,
+    "price_B": 2057142857,
+    "price_C": 2741377424.8728437,
+    "price_D": 3749358444,
+    "case": 1,
+    "diem_tuongdoi": 3.4615384615384617,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9500000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 14057937788.838152,
+    "price_D": 10381998953,
+    "case": 1,
+    "diem_tuongdoi": 3.947368421052632,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 22000000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 52203369413.51911,
+    "price_D": 149365891553,
+    "case": 1,
+    "diem_tuongdoi": 4.090909090909091,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4400000000,
+    "price_Rent": 23000000,
+    "price_B": 7885714286,
+    "price_C": 6325873444.386628,
+    "price_D": 19213185162,
+    "diem_tuongdoi": 8.411247743498047,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 36500000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 50971615682.985985,
+    "price_D": 34224887036,
+    "case": 1,
+    "diem_tuongdoi": 4.10958904109589,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12500000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 11729301597.390747,
+    "price_D": 17283400450,
+    "case": 1,
+    "diem_tuongdoi": 1.9172063895629883,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3000000000,
+    "price_Rent": 11000000,
+    "price_B": 3771428571,
+    "price_C": 4136724572.6353683,
+    "price_D": 4678823138,
+    "case": 1,
+    "diem_tuongdoi": 5.3999999999999995,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7600000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 9418098225.576662,
+    "price_D": 7335326623,
+    "case": 1,
+    "diem_tuongdoi": 1.5789473684210527,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9800000000,
+    "price_Rent": 35000000,
+    "price_B": 12000000000,
+    "price_C": 10671071032.067516,
+    "price_D": 18049028142,
+    "case": 1,
+    "diem_tuongdoi": 5.285714285714286,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5000000000,
+    "price_Rent": 16100000,
+    "price_B": 5520000000,
+    "price_C": 6242061301.071046,
+    "price_D": 5531312469,
+    "case": 1,
+    "diem_tuongdoi": 4.83,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2900000000,
+    "price_Rent": 12000000,
+    "price_B": 4114285714,
+    "price_C": 2625607374.215082,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 0.26909265888072653,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 20500000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 34467213743.995605,
+    "price_D": 41145943851,
+    "case": 1,
+    "diem_tuongdoi": 4.390243902439025,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5600000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 7175743091.037994,
+    "price_D": 17798443223,
+    "case": 1,
+    "diem_tuongdoi": 5.285714285714286,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1800000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 8648775820.19235,
+    "price_D": 0,
+    "diem_tuongdoi": 8.583333333333334,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 17200000000,
+    "price_Rent": 55000000,
+    "price_B": 18857142857,
+    "price_C": 18854160768.532455,
+    "price_D": 43854630007,
+    "case": 1,
+    "diem_tuongdoi": 4.796511627906977,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 19000000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 34475674293.19208,
+    "price_D": 4890407418,
+    "case": 1,
+    "diem_tuongdoi": 3.1578947368421053,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1700000000,
+    "price_Rent": 5000000,
+    "price_B": 1714285714,
+    "price_C": 3375769993.4587426,
+    "price_D": 3997031540,
+    "case": 1,
+    "diem_tuongdoi": 4.411764705882353,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11500000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 15034924190.6668,
+    "price_D": 4394778559,
+    "case": 1,
+    "diem_tuongdoi": 3.2608695652173916,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1000000000,
+    "price_Rent": 5000000,
+    "price_B": 1714285714,
+    "price_C": 4267348484.848484,
+    "price_D": 0,
+    "diem_tuongdoi": 7.65,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11000000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 11573100855.922228,
+    "price_D": 3873613648,
+    "case": 1,
+    "diem_tuongdoi": 2.0454545454545454,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3200000000,
+    "price_Rent": 12000000,
+    "price_B": 4114285714,
+    "price_C": 5012456702.42915,
+    "price_D": 4971942149,
+    "case": 1,
+    "diem_tuongdoi": 5.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 31000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 32562674444.88777,
+    "price_D": 17467706325,
+    "case": 1,
+    "diem_tuongdoi": 4.838709677419355,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2600000000,
+    "price_Rent": 6000000,
+    "price_B": 2057142857,
+    "price_C": 6142823020.932418,
+    "price_D": 3610999214,
+    "case": 1,
+    "diem_tuongdoi": 3.4615384615384617,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1200000000,
+    "price_Rent": 7000000,
+    "price_B": 2400000000,
+    "price_C": 22765773247.97844,
+    "price_D": 0,
+    "diem_tuongdoi": 8.1,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3750000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 4012254485.033263,
+    "price_D": 2742036036,
+    "case": 1,
+    "diem_tuongdoi": 3.2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 180000000000,
+    "price_Rent": 230000000,
+    "price_B": 78857142857,
+    "price_C": 166622697481.11206,
+    "price_D": 42156765888,
+    "case": 1,
+    "diem_tuongdoi": 1.2840826336422393,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16500000000,
+    "price_Rent": 35000000,
+    "price_B": 12000000000,
+    "price_C": 24093522591.65637,
+    "price_D": 32293313877,
+    "case": 1,
+    "diem_tuongdoi": 3.1818181818181817,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 15000000000,
+    "price_Rent": 14000000,
+    "price_B": 4800000000,
+    "price_C": 21556186315.98925,
+    "price_D": 72700091288,
+    "case": 1,
+    "diem_tuongdoi": 1.4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1350000000,
+    "price_Rent": 4000000,
+    "price_B": 1371428571,
+    "price_C": 1879909627.6938407,
+    "price_D": 3254364441,
+    "case": 1,
+    "diem_tuongdoi": 4.444444444444445,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 30000000000,
+    "price_Rent": 120000000,
+    "price_B": 41142857143,
+    "price_C": 65163486045.61354,
+    "price_D": 1450674273620,
+    "case": 1,
+    "diem_tuongdoi": 5.800000000000001,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3000000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 13171463518.917906,
+    "price_D": 44723152013,
+    "case": 1,
+    "diem_tuongdoi": 5.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3800000000,
+    "price_Rent": 12000000,
+    "price_B": 4114285714,
+    "price_C": 16653416119.982388,
+    "price_D": 14647414624,
+    "case": 1,
+    "diem_tuongdoi": 4.736842105263158,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 68000000000,
+    "price_Rent": 360000000,
+    "price_B": 123428571429,
+    "price_C": 89971033795.57077,
+    "price_D": 67332042749,
+    "diem_tuongdoi": 7.373675739664011,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7850000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 11602641239.205051,
+    "price_D": 10355386905,
+    "diem_tuongdoi": 7.860953331691043,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3850000000,
+    "price_Rent": 16000000,
+    "price_B": 5485714286,
+    "price_C": 6975200495.068603,
+    "price_D": 22063935801,
+    "case": 1,
+    "diem_tuongdoi": 5.987012987012988,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12500000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 44585713891.06081,
+    "price_D": 3848810461,
+    "case": 1,
+    "diem_tuongdoi": 2.4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4750000000,
+    "price_Rent": 18000000,
+    "price_B": 6171428571,
+    "price_C": 6799067843.856719,
+    "price_D": 8271399596,
+    "case": 1,
+    "diem_tuongdoi": 5.547368421052632,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 24800000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 48651617031.87627,
+    "price_D": 19579381677,
+    "case": 1,
+    "diem_tuongdoi": 2.4193548387096775,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 33000000000,
+    "price_Rent": 80000000,
+    "price_B": 27428571429,
+    "price_C": 46308310080.04728,
+    "price_D": 96793044212,
+    "case": 1,
+    "diem_tuongdoi": 3.6363636363636367,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4000000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 8361815749.146328,
+    "price_D": 6251762041,
+    "case": 1,
+    "diem_tuongdoi": 5.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8800000000,
+    "price_Rent": 16000000,
+    "price_B": 5485714286,
+    "price_C": 9522508053.25613,
+    "price_D": 8312380952,
+    "case": 1,
+    "diem_tuongdoi": 2.7272727272727275,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11600000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 12799922369.430164,
+    "price_D": 42461464440,
+    "case": 1,
+    "diem_tuongdoi": 3.8793103448275863,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 31000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 39743334306.22229,
+    "price_D": 28115197329,
+    "case": 1,
+    "diem_tuongdoi": 4.838709677419355,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7900000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 14766997940.806429,
+    "price_D": 19464977140,
+    "diem_tuongdoi": 8.922909164172857,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2500000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 4541837417.791312,
+    "price_D": 3618577840,
+    "case": 1,
+    "diem_tuongdoi": 5.800000000000001,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 31000000000,
+    "price_Rent": 182000000,
+    "price_B": 62400000000,
+    "price_C": 31834997397.779133,
+    "price_D": 40309011460,
+    "diem_tuongdoi": 6.099192792903619,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 19000000000,
+    "price_Rent": 70000000,
+    "price_B": 24000000000,
+    "price_C": 29346171546.671947,
+    "price_D": 39720314014,
+    "case": 1,
+    "diem_tuongdoi": 5.421052631578947,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2019000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 6516747208.330026,
+    "price_D": 6891836735,
+    "diem_tuongdoi": 9.293021314522061,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 42000000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 76202534784.24194,
+    "price_D": 79501263960,
+    "case": 1,
+    "diem_tuongdoi": 1.7857142857142858,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12800000000,
+    "price_Rent": 42000000,
+    "price_B": 14400000000,
+    "price_C": 15579129700.307924,
+    "price_D": 15212308445,
+    "case": 1,
+    "diem_tuongdoi": 4.921875,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2800000000,
+    "price_Rent": 5000000,
+    "price_B": 1714285714,
+    "price_C": 2555589927.2947106,
+    "price_D": 2163255411,
+    "case": 1,
+    "diem_tuongdoi": 0.6355344159769754,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4670000000,
+    "price_Rent": 17000000,
+    "price_B": 5828571429,
+    "price_C": 5891288758.424983,
+    "price_D": 7835590389,
+    "case": 1,
+    "diem_tuongdoi": 5.368308351177729,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11900000000,
+    "price_Rent": 35000000,
+    "price_B": 12000000000,
+    "price_C": 12076586992.498474,
+    "price_D": 12731018141,
+    "case": 1,
+    "diem_tuongdoi": 4.411764705882353,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 23000000000,
+    "price_Rent": 80000000,
+    "price_B": 27428571429,
+    "price_C": 32053075542.21379,
+    "price_D": 43096658009,
+    "case": 1,
+    "diem_tuongdoi": 5.173913043478262,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4770000000,
+    "price_Rent": 18000000,
+    "price_B": 6171428571,
+    "price_C": 5368835001.948239,
+    "price_D": 8049431066,
+    "case": 1,
+    "diem_tuongdoi": 5.528301886792454,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11000000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 11801302227.852133,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 4.090909090909091,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 22000000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 24413713585.634747,
+    "price_D": 30448051948,
+    "case": 1,
+    "diem_tuongdoi": 2.0454545454545454,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 10400000000,
+    "price_Rent": 75000000,
+    "price_B": 25714285714,
+    "price_C": 12322768130.65686,
+    "price_D": 6948044998,
+    "diem_tuongdoi": 7.3800439026880635,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 30000000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 50920992313.375946,
+    "price_D": 10069131899,
+    "case": 1,
+    "diem_tuongdoi": 2.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6700000000,
+    "price_Rent": 22000000,
+    "price_B": 7542857143,
+    "price_C": 11232853888.094995,
+    "price_D": 6035520044,
+    "case": 1,
+    "diem_tuongdoi": 4.925373134328359,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2110000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 13723696862.659733,
+    "price_D": 2710714286,
+    "diem_tuongdoi": 8.556872037914692,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7400000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 7209269553.764038,
+    "price_D": 14716981132,
+    "case": 1,
+    "diem_tuongdoi": 3.711280768675933,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6300000000,
+    "price_Rent": 16000000,
+    "price_B": 5485714286,
+    "price_C": 5974606349.24446,
+    "price_D": 19762547550,
+    "case": 1,
+    "diem_tuongdoi": 2.417510708289366,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6200000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 10485759975.031815,
+    "price_D": 12380298129,
+    "case": 1,
+    "diem_tuongdoi": 3.629032258064516,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3850000000,
+    "price_Rent": 11000000,
+    "price_B": 3771428571,
+    "price_C": 5354760136.481037,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 4.2857142857142865,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4000000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 10775873086.54524,
+    "price_D": 7985778377,
+    "case": 1,
+    "diem_tuongdoi": 5.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 40000000000,
+    "price_Rent": 150000000,
+    "price_B": 51428571429,
+    "price_C": 41121266705.806725,
+    "price_D": 42762915288,
+    "case": 1,
+    "diem_tuongdoi": 5.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5000000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 10120657823.468739,
+    "price_D": 14453352968,
+    "diem_tuongdoi": 8.605174930431092,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7500000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 8839320963.868593,
+    "price_D": 35819283747,
+    "diem_tuongdoi": 8.253592578321156,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 18000000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 22248359320.59377,
+    "price_D": 40871425583,
+    "case": 1,
+    "diem_tuongdoi": 5.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8500000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 9165845287.463717,
+    "price_D": 11417436330,
+    "case": 1,
+    "diem_tuongdoi": 2.6470588235294117,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 17600000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 23606630011.11331,
+    "price_D": 29127368388,
+    "case": 1,
+    "diem_tuongdoi": 3.4090909090909087,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 26500000000,
+    "price_Rent": 4000000,
+    "price_B": 1371428571,
+    "price_C": 45222342322.193,
+    "price_D": 8857363956,
+    "case": 1,
+    "diem_tuongdoi": 0.22641509433962262,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8800000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 16434520816.16385,
+    "price_D": 4023059199,
+    "case": 1,
+    "diem_tuongdoi": 2.5568181818181817,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1450000000,
+    "price_Rent": 185120000,
+    "price_B": 63469714286,
+    "price_C": 202776398241.02353,
+    "price_D": 39282769627,
+    "diem_tuongdoi": 9.0,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 10000000000,
+    "price_Rent": 19000000,
+    "price_B": 6514285714,
+    "price_C": 13428731029.74349,
+    "price_D": 13716975978,
+    "case": 1,
+    "diem_tuongdoi": 2.8500000000000005,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 21500000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 19626606695.896713,
+    "price_D": 23983725189,
+    "case": 1,
+    "diem_tuongdoi": 0.6432713858063099,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 14000000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 19021002620.24341,
+    "price_D": 48181578230,
+    "case": 1,
+    "diem_tuongdoi": 2.1428571428571432,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7150000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 29299884394.33221,
+    "price_D": 15896103896,
+    "case": 1,
+    "diem_tuongdoi": 4.195804195804196,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6000000000,
+    "price_Rent": 44000000,
+    "price_B": 15085714286,
+    "price_C": 17453233857.707745,
+    "price_D": 11695934164,
+    "diem_tuongdoi": 8.37,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11000000000,
+    "price_Rent": 65000000,
+    "price_B": 22285714286,
+    "price_C": 13781246874.104984,
+    "price_D": 56736107620,
+    "diem_tuongdoi": 8.45141917577022,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 18000000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 21925289132.00517,
+    "price_D": 42951764095,
+    "case": 1,
+    "diem_tuongdoi": 1.666666666666667,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1240000000,
+    "price_Rent": 13000000,
+    "price_B": 4457142857,
+    "price_C": 95022188483.6623,
+    "price_D": 9557823129,
+    "diem_tuongdoi": 9.562903225806453,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 43000000000,
+    "price_Rent": 162850000,
+    "price_B": 55834285714,
+    "price_C": 54447126788.87291,
+    "price_D": 49345597234,
+    "case": 1,
+    "diem_tuongdoi": 5.544651162790699,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8800000000,
+    "price_Rent": 35000000,
+    "price_B": 12000000000,
+    "price_C": 9531114393.939396,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 5.772727272727274,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2000000000,
+    "price_Rent": 21000000,
+    "price_B": 7200000000,
+    "price_C": 5308459850.4959135,
+    "price_D": 9068149340,
+    "diem_tuongdoi": 9.442732593055556,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 10500000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 13096903108.8282,
+    "price_D": 14650606219,
+    "case": 1,
+    "diem_tuongdoi": 2.8571428571428568,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 18000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 16531775479.474833,
+    "price_D": 42146914627,
+    "case": 1,
+    "diem_tuongdoi": 0.9215985540967573,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 15300000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 39241755217.90758,
+    "price_D": 38050909091,
+    "diem_tuongdoi": 9.031379679141086,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 26000000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 27516932138.985546,
+    "price_D": 307837131427,
+    "case": 1,
+    "diem_tuongdoi": 3.4615384615384617,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16500000000,
+    "price_Rent": 35000000,
+    "price_B": 12000000000,
+    "price_C": 23708716324.400818,
+    "price_D": 32293313877,
+    "case": 1,
+    "diem_tuongdoi": 3.1818181818181817,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 10400000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 13209447220.104202,
+    "price_D": 9826520783,
+    "diem_tuongdoi": 6.961780047160472,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 14700000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 16493008855.475687,
+    "price_D": 132893130583,
+    "case": 1,
+    "diem_tuongdoi": 4.081632653061225,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8500000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 9165845287.463717,
+    "price_D": 10567445887,
+    "case": 1,
+    "diem_tuongdoi": 2.6470588235294117,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 15500000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 16044657164.49378,
+    "price_D": 39404086451,
+    "case": 1,
+    "diem_tuongdoi": 3.870967741935484,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4500000000,
+    "price_Rent": 12000000,
+    "price_B": 4114285714,
+    "price_C": 8121107191.934114,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 4.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 25000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 23127849125.679802,
+    "price_D": 58324241307,
+    "case": 1,
+    "diem_tuongdoi": 1.255698251359604,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 18000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 17837450773.374794,
+    "price_D": 174404246174,
+    "case": 1,
+    "diem_tuongdoi": 4.548474370485539,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7300000000,
+    "price_Rent": 26000000,
+    "price_B": 8914285714,
+    "price_C": 8815899999.999998,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 5.273972602739726,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2300000000,
+    "price_Rent": 7000000,
+    "price_B": 2400000000,
+    "price_C": 3255027212.9186606,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 4.565217391304348,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 17000000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 18282998160.933388,
+    "price_D": 18740837250,
+    "case": 1,
+    "diem_tuongdoi": 3.5294117647058827,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 28000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 25335703083.441956,
+    "price_D": 28848484848,
+    "case": 1,
+    "diem_tuongdoi": 0.24232693471777722,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 42000000000,
+    "price_Rent": 220000000,
+    "price_B": 75428571429,
+    "price_C": 56377548654.49178,
+    "price_D": 115077298181,
+    "diem_tuongdoi": 8.288013948593681,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 25000000000,
+    "price_Rent": 70000000,
+    "price_B": 24000000000,
+    "price_C": 47321025641.466194,
+    "price_D": 31142614421,
+    "case": 1,
+    "diem_tuongdoi": 4.2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3200000000,
+    "price_Rent": 35000000,
+    "price_B": 12000000000,
+    "price_C": 109663050221.56363,
+    "price_D": 0,
+    "diem_tuongdoi": 8.565625,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 15200000000,
+    "price_Rent": 55000000,
+    "price_B": 18857142857,
+    "price_C": 28204448091.497715,
+    "price_D": 62560134271,
+    "case": 1,
+    "diem_tuongdoi": 5.342105263157895,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 65000000000,
+    "price_Rent": 200000000,
+    "price_B": 68571428571,
+    "price_C": 147141463071.556,
+    "price_D": 301768979844,
+    "case": 1,
+    "diem_tuongdoi": 4.615384615384616,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 70000000000,
+    "price_Rent": 500000000,
+    "price_B": 171428571429,
+    "price_C": 111577190933.36902,
+    "price_D": 154319853873,
+    "diem_tuongdoi": 8.075684226114841,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5500000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 5002193585.025388,
+    "price_D": 13645653010,
+    "case": 1,
+    "diem_tuongdoi": 0.4744871365944343,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9500000000,
+    "price_Rent": 20100000,
+    "price_B": 6891428571,
+    "price_C": 8731498741.463095,
+    "price_D": 19140456182,
+    "case": 1,
+    "diem_tuongdoi": 0.9552565340162884,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 43000000000,
+    "price_Rent": 140000000,
+    "price_B": 48000000000,
+    "price_C": 40630424360.83475,
+    "price_D": 79563857337,
+    "case": 1,
+    "diem_tuongdoi": 2.2446794893427295,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7600000000,
+    "price_Rent": 22000000,
+    "price_B": 7542857143,
+    "price_C": 11491895980.745745,
+    "price_D": 5140457143,
+    "case": 1,
+    "diem_tuongdoi": 4.342105263157895,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 25000000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 23671049900.64696,
+    "price_D": 16317102280,
+    "case": 1,
+    "diem_tuongdoi": 2.3420998012939225,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 28000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 41907072016.0689,
+    "price_D": 35806535948,
+    "case": 1,
+    "diem_tuongdoi": 5.285714285714286,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4800000000,
+    "price_Rent": 18000000,
+    "price_B": 6171428571,
+    "price_C": 12317659330.1051,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 5.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6800000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 8585511390.477852,
+    "price_D": 14577144147,
+    "case": 1,
+    "diem_tuongdoi": 4.411764705882353,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8000000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 68030285174.650894,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.8125,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 18300000000,
+    "price_Rent": 162015000,
+    "price_B": 55548000000,
+    "price_C": 17771024479.971886,
+    "price_D": 49710090370,
+    "case": 1,
+    "diem_tuongdoi": 3.554711693912256,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9300000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 18744975412.40233,
+    "price_D": 9005291005,
+    "diem_tuongdoi": 7.272580645161292,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 26000000000,
+    "price_Rent": 150000000,
+    "price_B": 51428571429,
+    "price_C": 45165859677.47043,
+    "price_D": 21812011009,
+    "diem_tuongdoi": 7.896408618398996,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 23000000000,
+    "price_Rent": 55000000,
+    "price_B": 18857142857,
+    "price_C": 22493199067.968765,
+    "price_D": 24163912269,
+    "case": 1,
+    "diem_tuongdoi": 3.5869565217391304,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9200000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 16822451909.951218,
+    "price_D": 9523809524,
+    "diem_tuongdoi": 7.187593689359947,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 36000000000,
+    "price_Rent": 125000000,
+    "price_B": 42857142857,
+    "price_C": 38202731203.66714,
+    "price_D": 150065071119,
+    "case": 1,
+    "diem_tuongdoi": 5.166666666666666,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 26000000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 27180735795.32619,
+    "price_D": 18706933252,
+    "case": 1,
+    "diem_tuongdoi": 3.4615384615384617,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 120000000000,
+    "price_Rent": 450000000,
+    "price_B": 154285714286,
+    "price_C": 129214913268.61652,
+    "price_D": 341803665956,
+    "case": 1,
+    "diem_tuongdoi": 5.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 39000000000,
+    "price_Rent": 80000000,
+    "price_B": 27428571429,
+    "price_C": 45905526468.72144,
+    "price_D": 110000000000,
+    "case": 1,
+    "diem_tuongdoi": 3.076923076923077,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 30000000000,
+    "price_Rent": 150443000,
+    "price_B": 51580457143,
+    "price_C": 31252098683.912804,
+    "price_D": 38883380808,
+    "diem_tuongdoi": 5.783603605173842,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4500000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 4328248122.562423,
+    "price_D": 19531663835,
+    "case": 1,
+    "diem_tuongdoi": 3.091645806249142,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 113000000000,
+    "price_Rent": 700000000,
+    "price_B": 240000000000,
+    "price_C": 216662191265.26828,
+    "price_D": 176263891775,
+    "diem_tuongdoi": 8.111921442090654,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4200000000,
+    "price_Rent": 22000000,
+    "price_B": 7542857143,
+    "price_C": 6558832737.648116,
+    "price_D": 12940807376,
+    "diem_tuongdoi": 8.456136875974277,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 14500000000,
+    "price_Rent": 45000000,
+    "price_B": 15428571429,
+    "price_C": 25245475584.20246,
+    "price_D": 28403007519,
+    "case": 1,
+    "diem_tuongdoi": 4.655172413793103,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 26000000000,
+    "price_Rent": 16000000,
+    "price_B": 5485714286,
+    "price_C": 29868182550.28245,
+    "price_D": 9706238719,
+    "case": 1,
+    "diem_tuongdoi": 0.923076923076923,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 38300000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 35220609935.45674,
+    "price_D": 38511718132,
+    "case": 1,
+    "diem_tuongdoi": 0.9799085319278609,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9600000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 21751300384.95851,
+    "price_D": 30023629726,
+    "diem_tuongdoi": 8.2,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4350000000,
+    "price_Rent": 7000000,
+    "price_B": 2400000000,
+    "price_C": 4676888888.888888,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.413793103448276,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6900000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 16681988370.124727,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.2608695652173916,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12500000000,
+    "price_Rent": 80000000,
+    "price_B": 27428571429,
+    "price_C": 12327611290.722366,
+    "price_D": 45931313131,
+    "case": 1,
+    "diem_tuongdoi": 4.310445162889465,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 50000000000,
+    "price_Rent": 120000000,
+    "price_B": 41142857143,
+    "price_C": 216157706323.20883,
+    "price_D": 104032447673,
+    "case": 1,
+    "diem_tuongdoi": 3.5999999999999996,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4250000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 4508492425.974761,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.5294117647058827,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6100000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 23068859402.51415,
+    "price_D": 34279293740,
+    "case": 1,
+    "diem_tuongdoi": 5.918032786885247,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 50000000000,
+    "price_Rent": 173700000,
+    "price_B": 59554285714,
+    "price_C": 51696027432.639206,
+    "price_D": 99171774482,
+    "case": 1,
+    "diem_tuongdoi": 5.1688,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 103000000000,
+    "price_Rent": 230000000,
+    "price_B": 78857142857,
+    "price_C": 159243771650.32162,
+    "price_D": 243964332283,
+    "case": 1,
+    "diem_tuongdoi": 3.3495145631067964,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 52000000000,
+    "price_Rent": 140000000,
+    "price_B": 48000000000,
+    "price_C": 89622277759.16733,
+    "price_D": 121063781778,
+    "case": 1,
+    "diem_tuongdoi": 4.038461538461538,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 80000000000,
+    "price_Rent": 350000000,
+    "price_B": 120000000000,
+    "price_C": 103680516140.14323,
+    "price_D": 330887426408,
+    "diem_tuongdoi": 7.844529032883057,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 18500000000,
+    "price_Rent": 3000000,
+    "price_B": 1028571429,
+    "price_C": 36239678396.26949,
+    "price_D": 11202015634,
+    "case": 1,
+    "diem_tuongdoi": 0.24324324324324323,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 10000000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 18652686534.529182,
+    "price_D": 5123283962,
+    "case": 1,
+    "diem_tuongdoi": 5.800000000000001,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 29500000000,
+    "price_Rent": 80000000,
+    "price_B": 27428571429,
+    "price_C": 30636518863.576458,
+    "price_D": 28106060606,
+    "case": 1,
+    "diem_tuongdoi": 4.067796610169491,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6700000000,
+    "price_Rent": 12000000,
+    "price_B": 4114285714,
+    "price_C": 8149651417.746527,
+    "price_D": 10986960107,
+    "case": 1,
+    "diem_tuongdoi": 2.6865671641791042,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 26000000000,
+    "price_Rent": 35000000,
+    "price_B": 12000000000,
+    "price_C": 34912277626.25986,
+    "price_D": 9749242472,
+    "case": 1,
+    "diem_tuongdoi": 2.019230769230769,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12000000000,
+    "price_Rent": 70000000,
+    "price_B": 24000000000,
+    "price_C": 18819108198.946014,
+    "price_D": 17657929946,
+    "diem_tuongdoi": 7.822452224943537,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 27000000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 34753585455.2314,
+    "price_D": 9927403924,
+    "case": 1,
+    "diem_tuongdoi": 2.2222222222222223,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1000000000,
+    "price_Rent": 11000000,
+    "price_B": 3771428571,
+    "price_C": 2886315789.4736843,
+    "price_D": 0,
+    "diem_tuongdoi": 8.565999999999999,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 46000000000,
+    "price_Rent": 70000000,
+    "price_B": 24000000000,
+    "price_C": 150006657471.08685,
+    "price_D": 539219267811,
+    "case": 1,
+    "diem_tuongdoi": 2.282608695652174,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 52000000000,
+    "price_Rent": 150000000,
+    "price_B": 51428571429,
+    "price_C": 49708816686.914604,
+    "price_D": 77616917709,
+    "case": 1,
+    "diem_tuongdoi": 2.7969391220332733,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 21300000000,
+    "price_Rent": 80000000,
+    "price_B": 27428571429,
+    "price_C": 43938117346.49854,
+    "price_D": 143512112285,
+    "case": 1,
+    "diem_tuongdoi": 5.507042253521128,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12500000000,
+    "price_Rent": 32000000,
+    "price_B": 10971428571,
+    "price_C": 17327507710.786274,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.84,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12500000000,
+    "price_Rent": 45000000,
+    "price_B": 15428571429,
+    "price_C": 18348964141.574436,
+    "price_D": 30436851936,
+    "case": 1,
+    "diem_tuongdoi": 5.32,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9500000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 8607106446.294186,
+    "price_D": 16947195958,
+    "case": 1,
+    "diem_tuongdoi": 0.30056024365360834,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11800000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 13640476006.72896,
+    "price_D": 36631111151,
+    "case": 1,
+    "diem_tuongdoi": 3.1779661016949157,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4900000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 4536822285.353536,
+    "price_D": 6727272727,
+    "case": 1,
+    "diem_tuongdoi": 1.2941049525870985,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 15500000000,
+    "price_Rent": 67000000,
+    "price_B": 22971428571,
+    "price_C": 29591991578.51397,
+    "price_D": 15211635514,
+    "diem_tuongdoi": 7.22579688574482,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 35000000000,
+    "price_Rent": 150000000,
+    "price_B": 51428571429,
+    "price_C": 52517152356.73794,
+    "price_D": 61301928790,
+    "diem_tuongdoi": 7.789163160486422,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 28000000000,
+    "price_Rent": 90000000,
+    "price_B": 30857142857,
+    "price_C": 53298439754.42942,
+    "price_D": 300673977411,
+    "case": 1,
+    "diem_tuongdoi": 4.821428571428571,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 85000000000,
+    "price_Rent": 300000000,
+    "price_B": 102857142857,
+    "price_C": 118872157556.67984,
+    "price_D": 74548342990,
+    "case": 1,
+    "diem_tuongdoi": 5.235294117647059,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12000000000,
+    "price_Rent": 27000000,
+    "price_B": 9257142857,
+    "price_C": 17922486836.469566,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.375,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 44000000000,
+    "price_Rent": 130000000,
+    "price_B": 44571428571,
+    "price_C": 40624283416.635475,
+    "price_D": 116216525801,
+    "case": 1,
+    "diem_tuongdoi": 1.1639584279948583,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 29000000000,
+    "price_Rent": 85000000,
+    "price_B": 29142857143,
+    "price_C": 39903644227.45748,
+    "price_D": 43567748703,
+    "case": 1,
+    "diem_tuongdoi": 4.3965517241379315,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 45000000000,
+    "price_Rent": 180000000,
+    "price_B": 61714285714,
+    "price_C": 48866203798.98304,
+    "price_D": 77398677078,
+    "case": 1,
+    "diem_tuongdoi": 5.800000000000001,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 60000000000,
+    "price_Rent": 750000000,
+    "price_B": 257142857143,
+    "price_C": 65936644247.50957,
+    "price_D": 274489661269,
+    "diem_tuongdoi": 7.950416224773026,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 13000000000,
+    "price_Rent": 90000000,
+    "price_B": 30857142857,
+    "price_C": 11874016281.692923,
+    "price_D": 33231916717,
+    "case": 1,
+    "diem_tuongdoi": 0.669293391126625,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 28500000000,
+    "price_Rent": 130000000,
+    "price_B": 44571428571,
+    "price_C": 27152920290.02173,
+    "price_D": 49746454103,
+    "case": 1,
+    "diem_tuongdoi": 2.636702263196015,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 42000000000,
+    "price_Rent": 150000000,
+    "price_B": 51428571429,
+    "price_C": 53630977092.95612,
+    "price_D": 25615451046,
+    "case": 1,
+    "diem_tuongdoi": 5.285714285714286,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 28000000000,
+    "price_Rent": 66000000,
+    "price_B": 22628571429,
+    "price_C": 30508980720.67289,
+    "price_D": 20579556561,
+    "case": 1,
+    "diem_tuongdoi": 3.535714285714286,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16200000000,
+    "price_Rent": 55000000,
+    "price_B": 18857142857,
+    "price_C": 18913561806.704857,
+    "price_D": 22544204780,
+    "case": 1,
+    "diem_tuongdoi": 5.074074074074074,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 18000000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 16644758376.272352,
+    "price_D": 8831992396,
+    "case": 1,
+    "diem_tuongdoi": 1.2354399340898672,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 19700000000,
+    "price_Rent": 80000000,
+    "price_B": 27428571429,
+    "price_C": 20965777658.7026,
+    "price_D": 17402642687,
+    "case": 1,
+    "diem_tuongdoi": 5.873096446700508,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 17000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 23423888564.867867,
+    "price_D": 44086726530,
+    "diem_tuongdoi": 8.601817970926096,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 52000000000,
+    "price_Rent": 200000000,
+    "price_B": 68571428571,
+    "price_C": 50722871583.211075,
+    "price_D": 26525834137,
+    "case": 1,
+    "diem_tuongdoi": 3.7719919069337258,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7000000000,
+    "price_Rent": 16500000,
+    "price_B": 5657142857,
+    "price_C": 7152812579.32072,
+    "price_D": 29364356327,
+    "case": 1,
+    "diem_tuongdoi": 3.535714285714286,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 55000000000,
+    "price_Rent": 170000000,
+    "price_B": 58285714286,
+    "price_C": 110139794367.5334,
+    "price_D": 569188383814,
+    "case": 1,
+    "diem_tuongdoi": 4.636363636363637,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12500000000,
+    "price_Rent": 45000000,
+    "price_B": 15428571429,
+    "price_C": 42979369081.20419,
+    "price_D": 20081216066,
+    "case": 1,
+    "diem_tuongdoi": 5.32,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4850000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 5869962771.053432,
+    "price_D": 8976623377,
+    "diem_tuongdoi": 7.309759272111431,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1580000000,
+    "price_Rent": 4000000,
+    "price_B": 1371428571,
+    "price_C": 2869810441.745449,
+    "price_D": 2723195537,
+    "case": 1,
+    "diem_tuongdoi": 3.7974683544303796,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6550000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 9985686344.667206,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.290076335877863,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 33500000000,
+    "price_Rent": 150000000,
+    "price_B": 51428571429,
+    "price_C": 55729678696.229675,
+    "price_D": 146800228610,
+    "diem_tuongdoi": 8.151635625300784,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 32000000000,
+    "price_Rent": 150000000,
+    "price_B": 51428571429,
+    "price_C": 43881481983.38394,
+    "price_D": 60927809120,
+    "diem_tuongdoi": 7.919437043189039,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 35000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 33322361273.428658,
+    "price_D": 25006921378,
+    "case": 1,
+    "diem_tuongdoi": 2.6033732477552247,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11900000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 14915788515.406897,
+    "price_D": 40599400599,
+    "diem_tuongdoi": 8.009339300374554,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 23900000000,
+    "price_Rent": 45000000,
+    "price_B": 15428571429,
+    "price_C": 26841848282.376053,
+    "price_D": 14501550958,
+    "case": 1,
+    "diem_tuongdoi": 2.824267782426779,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 18500000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 18010889922.54433,
+    "price_D": 25800701983,
+    "case": 1,
+    "diem_tuongdoi": 2.4324324324324325,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7600000000,
+    "price_Rent": 18000000,
+    "price_B": 6171428571,
+    "price_C": 10188701322.45521,
+    "price_D": 4630338270,
+    "case": 1,
+    "diem_tuongdoi": 3.552631578947368,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 77000000000,
+    "price_Rent": 450000000,
+    "price_B": 154285714286,
+    "price_C": 112171003067.3566,
+    "price_D": 242733389378,
+    "diem_tuongdoi": 8.691765223290478,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 14000000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 24375263756.089233,
+    "price_D": 15943095000,
+    "case": 1,
+    "diem_tuongdoi": 5.285714285714286,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11500000000,
+    "price_Rent": 11000000,
+    "price_B": 3771428571,
+    "price_C": 14532266011.84221,
+    "price_D": 8167741534,
+    "case": 1,
+    "diem_tuongdoi": 1.4347826086956523,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16500000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 35405360096.5253,
+    "price_D": 86933674172,
+    "diem_tuongdoi": 9.14090909090909,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 10200000000,
+    "price_Rent": 13000000,
+    "price_B": 4457142857,
+    "price_C": 15384427017.231434,
+    "price_D": 11963952795,
+    "case": 1,
+    "diem_tuongdoi": 1.911764705882353,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 27000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 55916757197.747,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 5.444444444444445,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 19000000000,
+    "price_Rent": 70000000,
+    "price_B": 24000000000,
+    "price_C": 41657855501.61949,
+    "price_D": 44273412343,
+    "case": 1,
+    "diem_tuongdoi": 5.421052631578947,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11900000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 20129842894.193913,
+    "price_D": 4888000000,
+    "case": 1,
+    "diem_tuongdoi": 3.1512605042016806,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 17000000000,
+    "price_Rent": 46000000,
+    "price_B": 15771428571,
+    "price_C": 52935096232.479225,
+    "price_D": 102759386305,
+    "case": 1,
+    "diem_tuongdoi": 4.0588235294117645,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4500000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 7791271779.217346,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 5.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8600000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 10101968192.235186,
+    "price_D": 12140571929,
+    "case": 1,
+    "diem_tuongdoi": 4.3604651162790695,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 33500000000,
+    "price_Rent": 140000000,
+    "price_B": 48000000000,
+    "price_C": 43810673845.0273,
+    "price_D": 100551340077,
+    "diem_tuongdoi": 7.761718687857668,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7800000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 9184591079.228027,
+    "price_D": 50931035103,
+    "case": 1,
+    "diem_tuongdoi": 4.8076923076923075,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 25500000000,
+    "price_Rent": 80000000,
+    "price_B": 27428571429,
+    "price_C": 23082976372.34397,
+    "price_D": 18091278241,
+    "case": 1,
+    "diem_tuongdoi": 0.2607379849881788,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 15000000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 14900333435.029068,
+    "price_D": 69143829093,
+    "case": 1,
+    "diem_tuongdoi": 4.66777811676356,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 37500000000,
+    "price_Rent": 320000000,
+    "price_B": 109714285714,
+    "price_C": 37468548299.77908,
+    "price_D": 26447762094,
+    "case": 1,
+    "diem_tuongdoi": 4.958064399705444,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 40000000000,
+    "price_Rent": 90000000,
+    "price_B": 30857142857,
+    "price_C": 86291895173.66779,
+    "price_D": 60818524519,
+    "case": 1,
+    "diem_tuongdoi": 3.375,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 27500000000,
+    "price_Rent": 170000000,
+    "price_B": 58285714286,
+    "price_C": 24772921279.616646,
+    "price_D": 22850064844,
+    "case": 1,
+    "diem_tuongdoi": 0.04167505384844716,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 75000000000,
+    "price_Rent": 250000000,
+    "price_B": 85714285714,
+    "price_C": 82799429652.44556,
+    "price_D": 61964995863,
+    "case": 1,
+    "diem_tuongdoi": 5.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 50000000000,
+    "price_Rent": 120000000,
+    "price_B": 41142857143,
+    "price_C": 216000172662.30017,
+    "price_D": 107954908735,
+    "case": 1,
+    "diem_tuongdoi": 3.5999999999999996,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 21900000000,
+    "price_Rent": 90000000,
+    "price_B": 30857142857,
+    "price_C": 27621748694.50109,
+    "price_D": 18778021978,
+    "case": 1,
+    "diem_tuongdoi": 5.9315068493150696,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 58000000000,
+    "price_Rent": 254540000,
+    "price_B": 87270857143,
+    "price_C": 87553550617.00835,
+    "price_D": 82965209451,
+    "diem_tuongdoi": 7.257878995809483,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 30500000000,
+    "price_Rent": 110000000,
+    "price_B": 37714285714,
+    "price_C": 40933410496.145966,
+    "price_D": 68529118282,
+    "case": 1,
+    "diem_tuongdoi": 5.327868852459017,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 60000000000,
+    "price_Rent": 400000000,
+    "price_B": 137142857143,
+    "price_C": 187314328062.15906,
+    "price_D": 232541726617,
+    "diem_tuongdoi": 9.206516679511504,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 28500000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 25816726528.064972,
+    "price_D": 57058736629,
+    "case": 1,
+    "diem_tuongdoi": 0.2925026808157405,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 15000000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 16763374003.804754,
+    "price_D": 13083994323,
+    "case": 1,
+    "diem_tuongdoi": 4.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 20000000000,
+    "price_Rent": 65000000,
+    "price_B": 22285714286,
+    "price_C": 24385560361.22401,
+    "price_D": 26624735318,
+    "case": 1,
+    "diem_tuongdoi": 4.875,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 22300000000,
+    "price_Rent": 55000000,
+    "price_B": 18857142857,
+    "price_C": 20958415198.745712,
+    "price_D": 8297570534,
+    "case": 1,
+    "diem_tuongdoi": 1.991962329026261,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 43500000000,
+    "price_Rent": 115000000,
+    "price_B": 39428571429,
+    "price_C": 40816359390.348785,
+    "price_D": 37334516689,
+    "case": 1,
+    "diem_tuongdoi": 1.915355621090558,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 23500000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 27841127362.437023,
+    "price_D": 15969887955,
+    "case": 1,
+    "diem_tuongdoi": 1.276595744680851,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 40000000000,
+    "price_Rent": 150000000,
+    "price_B": 51428571429,
+    "price_C": 44563748957.704895,
+    "price_D": 118859181220,
+    "case": 1,
+    "diem_tuongdoi": 5.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 57000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 86075195739.74545,
+    "price_D": 11358400561,
+    "case": 1,
+    "diem_tuongdoi": 2.631578947368421,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16000000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 14572058161.383373,
+    "price_D": 29922077922,
+    "case": 1,
+    "diem_tuongdoi": 0.5376817543230414,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 32000000000,
+    "price_Rent": 130000000,
+    "price_B": 44571428571,
+    "price_C": 35797609743.59837,
+    "price_D": 232231154322,
+    "case": 1,
+    "diem_tuongdoi": 5.875000000000001,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 34000000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 43605321808.08743,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.2058823529411766,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 22000000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 26381115911.314774,
+    "price_D": 86061383140,
+    "case": 1,
+    "diem_tuongdoi": 4.090909090909091,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12240000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 19683459163.451927,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 1.2254901960784312,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6800000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 8450686222.3873,
+    "price_D": 17582524654,
+    "diem_tuongdoi": 7.583206269223141,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9000000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 11898656841.888388,
+    "price_D": 10251428571,
+    "case": 1,
+    "diem_tuongdoi": 2.5,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5000000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 9703197223.036417,
+    "price_D": 15682077243,
+    "diem_tuongdoi": 9.02393198561649,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7500000000,
+    "price_Rent": 19000000,
+    "price_B": 6514285714,
+    "price_C": 7318447707.319822,
+    "price_D": 17319347319,
+    "case": 1,
+    "diem_tuongdoi": 3.7896513821321487,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12800000000,
+    "price_Rent": 45000000,
+    "price_B": 15428571429,
+    "price_C": 18999015956.074314,
+    "price_D": 45784532313,
+    "case": 1,
+    "diem_tuongdoi": 5.21875,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16500000000,
+    "price_Rent": 12000000,
+    "price_B": 4114285714,
+    "price_C": 19214481551.519436,
+    "price_D": 49456208873,
+    "case": 1,
+    "diem_tuongdoi": 1.090909090909091,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2650000000,
+    "price_Rent": 7500000,
+    "price_B": 2571428571,
+    "price_C": 2507104267.9340982,
+    "price_D": 4284477427,
+    "case": 1,
+    "diem_tuongdoi": 2.303854111964118,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 280000000000,
+    "price_Rent": 810075000,
+    "price_B": 277740000000,
+    "price_C": 383695065321.55695,
+    "price_D": 1175744676406,
+    "case": 1,
+    "diem_tuongdoi": 4.339687499999999,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5000000000,
+    "price_Rent": 168000000,
+    "price_B": 57600000000,
+    "price_C": 23732624598.047684,
+    "price_D": 41735537190,
+    "diem_tuongdoi": 8.701600000000001,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16500000000,
+    "price_Rent": 21000000,
+    "price_B": 7200000000,
+    "price_C": 40001205288.4391,
+    "price_D": 39225381700,
+    "case": 1,
+    "diem_tuongdoi": 1.9090909090909092,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 13000000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 13339909204.992538,
+    "price_D": 30912608767,
+    "case": 1,
+    "diem_tuongdoi": 5.5229372384500595,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8700000000,
+    "price_Rent": 110000000,
+    "price_B": 37714285714,
+    "price_C": 17856320803.510113,
+    "price_D": 47903131844,
+    "diem_tuongdoi": 9.460941468417298,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 24000000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 23882950310.113266,
+    "price_D": 94436126929,
+    "case": 1,
+    "diem_tuongdoi": 3.125,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 24000000000,
+    "price_Rent": 70000000,
+    "price_B": 24000000000,
+    "price_C": 44465021469.42247,
+    "price_D": 25394655810,
+    "case": 1,
+    "diem_tuongdoi": 4.375000000000001,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 20000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 24290993449.985428,
+    "price_D": 45935190321,
+    "diem_tuongdoi": 7.721155866868341,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 10000000000,
+    "price_Rent": 40000000,
+    "price_B": 13714285714,
+    "price_C": 26005128501.151134,
+    "price_D": 24472137876,
+    "case": 1,
+    "diem_tuongdoi": 5.800000000000001,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 1180000000,
+    "price_Rent": 4500000,
+    "price_B": 1542857143,
+    "price_C": 1448559437.4550931,
+    "price_D": 2574113946,
+    "case": 1,
+    "diem_tuongdoi": 5.576271186440679,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4700000000,
+    "price_Rent": 6000000,
+    "price_B": 2057142857,
+    "price_C": 9151185353.911343,
+    "price_D": 7190555623,
+    "case": 1,
+    "diem_tuongdoi": 1.9148936170212765,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 2000000000,
+    "price_Rent": 2500000,
+    "price_B": 857142857,
+    "price_C": 8273042311.181274,
+    "price_D": 5757462927,
+    "case": 1,
+    "diem_tuongdoi": 1.875,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 18000000000,
+    "price_Rent": 38000000,
+    "price_B": 13028571429,
+    "price_C": 17851615178.287663,
+    "price_D": 13585368307,
+    "case": 1,
+    "diem_tuongdoi": 3.1666666666666665,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5200000000,
+    "price_Rent": 10000000,
+    "price_B": 3428571429,
+    "price_C": 10915243777.835997,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 2.884615384615385,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 9600000000,
+    "price_Rent": 11000000,
+    "price_B": 3771428571,
+    "price_C": 8915686128.381075,
+    "price_D": 6078336925,
+    "case": 1,
+    "diem_tuongdoi": 1.4358652519847657,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4700000000,
+    "price_Rent": 6000000,
+    "price_B": 2057142857,
+    "price_C": 9601185353.911343,
+    "price_D": 11984259372,
+    "case": 1,
+    "diem_tuongdoi": 1.9148936170212765,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 40130000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 79825790841.84349,
+    "price_D": 28583458647,
+    "case": 1,
+    "diem_tuongdoi": 2.24271118863693,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 43000000000,
+    "price_Rent": 150000000,
+    "price_B": 51428571429,
+    "price_C": 43536197493.386,
+    "price_D": 50402566244,
+    "case": 1,
+    "diem_tuongdoi": 5.186046511627907,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 15000000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 16265745095.36456,
+    "price_D": 13862406858,
+    "case": 1,
+    "diem_tuongdoi": 5.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 16000000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 19756137259.258698,
+    "price_D": 8273491760,
+    "case": 1,
+    "diem_tuongdoi": 2.8125,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 22000000000,
+    "price_Rent": 60000000,
+    "price_B": 20571428571,
+    "price_C": 23136420108.266792,
+    "price_D": 32968011370,
+    "case": 1,
+    "diem_tuongdoi": 4.090909090909091,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 13500000000,
+    "price_Rent": 70000000,
+    "price_B": 24000000000,
+    "price_C": 22752802033.156784,
+    "price_D": 20958693237,
+    "diem_tuongdoi": 7.547752477769372,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 13500000000,
+    "price_Rent": 70000000,
+    "price_B": 24000000000,
+    "price_C": 58451388200.094284,
+    "price_D": 57160072465,
+    "diem_tuongdoi": 8.75,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 7500000000,
+    "price_Rent": 15000000,
+    "price_B": 5142857143,
+    "price_C": 36041222873.7047,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 3.0,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 90000000000,
+    "price_Rent": 1000000000,
+    "price_B": 342857142857,
+    "price_C": 103687581547.4314,
+    "price_D": 229184702077,
+    "diem_tuongdoi": 7.451045744038237,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5500000000,
+    "price_Rent": 5000000,
+    "price_B": 1714285714,
+    "price_C": 8971592592.59259,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 1.3636363636363638,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 250000000000,
+    "price_Rent": 1000000000,
+    "price_B": 342857142857,
+    "price_C": 317801527618.16895,
+    "price_D": 755637206554,
+    "case": 1,
+    "diem_tuongdoi": 5.800000000000001,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 82000000000,
+    "price_Rent": 348000000,
+    "price_B": 119314285714,
+    "price_C": 138067748759.91272,
+    "price_D": 589472924821,
+    "diem_tuongdoi": 8.038405695852974,
+    "case": 3,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 4200000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 4989113569.00017,
+    "price_D": 18712052680,
+    "diem_tuongdoi": 7.566907395357325,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 3750000000,
+    "price_Rent": 8000000,
+    "price_B": 2742857143,
+    "price_C": 4339521175.829903,
+    "price_D": 6926858544,
+    "case": 1,
+    "diem_tuongdoi": 3.2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 5000000000,
+    "price_Rent": 160000000,
+    "price_B": 54857142857,
+    "price_C": 35313662235.428215,
+    "price_D": 17383585660,
+    "diem_tuongdoi": 8.692,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 11700000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 17973043808.840195,
+    "price_D": 10901614532,
+    "case": 1,
+    "diem_tuongdoi": 3.205128205128205,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12000000000,
+    "price_Rent": 35000000,
+    "price_B": 12000000000,
+    "price_C": 17022468112.866405,
+    "price_D": 28323599983,
+    "case": 1,
+    "diem_tuongdoi": 4.375000000000001,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12000000000,
+    "price_Rent": 35000000,
+    "price_B": 12000000000,
+    "price_C": 19006780130.56581,
+    "price_D": 50810613196,
+    "case": 1,
+    "diem_tuongdoi": 4.375000000000001,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 80000000000,
+    "price_Rent": 380000000,
+    "price_B": 130285714286,
+    "price_C": 77193004037.1473,
+    "price_D": 221047159493,
+    "case": 1,
+    "diem_tuongdoi": 3.245627523217058,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 17000000000,
+    "price_Rent": 50000000,
+    "price_B": 17142857143,
+    "price_C": 24471677117.12263,
+    "price_D": 94757239937,
+    "case": 1,
+    "diem_tuongdoi": 4.411764705882353,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 12200000000,
+    "price_Rent": 30000000,
+    "price_B": 10285714286,
+    "price_C": 20827490846.95742,
+    "price_D": 11180606154,
+    "case": 1,
+    "diem_tuongdoi": 3.6885245901639347,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 8700000000,
+    "price_Rent": 20000000,
+    "price_B": 6857142857,
+    "price_C": 24592318586.373363,
+    "price_D": 25469387755,
+    "case": 1,
+    "diem_tuongdoi": 3.4482758620689657,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 100000000000,
+    "price_Rent": 170000000,
+    "price_B": 58285714286,
+    "price_C": 145422904559.54105,
+    "price_D": 148959202908,
+    "case": 1,
+    "diem_tuongdoi": 2.55,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 165000000000,
+    "price_Rent": 170000000,
+    "price_B": 58285714286,
+    "price_C": 221186442490.56122,
+    "price_D": 226565108620,
+    "case": 1,
+    "diem_tuongdoi": 1.5454545454545454,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 14000000000,
+    "price_Rent": 75000000,
+    "price_B": 25714285714,
+    "price_C": 17242318280.903107,
+    "price_D": 98477812162,
+    "diem_tuongdoi": 8.08503087600457,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 35000000000,
+    "price_Rent": 161000000,
+    "price_B": 55200000000,
+    "price_C": 38280592581.72931,
+    "price_D": 90639730640,
+    "diem_tuongdoi": 6.976441536129979,
+    "case": 4,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 26800000000,
+    "price_Rent": 150000000,
+    "price_B": 51428571429,
+    "price_C": 54097969174.78412,
+    "price_D": 37603783529,
+    "diem_tuongdoi": 7.972388059701494,
+    "case": 2,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 56000000000,
+    "price_Rent": 230000000,
+    "price_B": 78857142857,
+    "price_C": 86165062459.33319,
+    "price_D": 100244554212,
+    "case": 1,
+    "diem_tuongdoi": 5.92857142857143,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 13000000000,
+    "price_Rent": 45000000,
+    "price_B": 15428571429,
+    "price_C": 22267874181.56943,
+    "price_D": 108960731147,
+    "case": 1,
+    "diem_tuongdoi": 5.153846153846154,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 66000000000,
+    "price_Rent": 230000000,
+    "price_B": 78857142857,
+    "price_C": 77055284075.81285,
+    "price_D": 16054866694,
+    "case": 1,
+    "diem_tuongdoi": 5.181818181818182,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 10300000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 12622888584.367699,
+    "price_D": 19391808793,
+    "case": 1,
+    "diem_tuongdoi": 3.6407766990291264,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 6450000000,
+    "price_Rent": 25000000,
+    "price_B": 8571428571,
+    "price_C": 9871370382.158672,
+    "price_D": 0,
+    "case": 1,
+    "diem_tuongdoi": 5.651162790697676,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 89000000000,
+    "price_Rent": 170000000,
+    "price_B": 58285714286,
+    "price_C": 113771130815.522,
+    "price_D": 906598991435,
+    "case": 1,
+    "diem_tuongdoi": 2.8651685393258424,
+    "expected_rank": 0
+  },
+  {
+    "price_A": 27000000000,
+    "price_Rent": 100000000,
+    "price_B": 34285714286,
+    "price_C": 56814753027.86048,
+    "price_D": 52199625293,
+    "case": 1,
+    "diem_tuongdoi": 5.444444444444445,
+    "expected_rank": 0
+  }
+]

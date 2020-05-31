@@ -1,0 +1,14 @@
+__pycache__/
+.vscode
+.DS_Store
+
+*.pyc
+
+configs.json
+
+Pipfile.lock
+
+*.data
+
+test/
+
