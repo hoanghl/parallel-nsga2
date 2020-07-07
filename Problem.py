@@ -22,11 +22,11 @@ class Problem:
 
         ## D
         self.list_populations   = None
-        
+
 
         ## Các biến holder - là các biến giữ một giá trị đặc biệt nào đó
-        self.n_individuals      = n_individuals
-        self.n_generations      = n_generations
+        self.n_individuals      = n_individuals // nThread
+        self.n_generations      = n_generations // nThread
         self.current_generation = 0
         self.nThread            = nThread
 
@@ -36,7 +36,7 @@ class Problem:
         #######################
         if not isSame:
             self.utils              = Utils(
-                n_individuals=n_individuals,
+                n_individuals=self.n_individuals,
                 n_variables=n_variables,
                 list_objectives=objectives,
                 variables_range=variables_range,
@@ -49,7 +49,7 @@ class Problem:
             ]
         else:
             self.utils              = Utils(
-                n_individuals=n_individuals,
+                n_individuals=self.n_individuals,
                 n_variables=n_variables,
                 list_objectives=objectives[0],
                 variables_range=variables_range,
@@ -59,7 +59,7 @@ class Problem:
             self.list_populations = [
                 Population(
                     Utils(
-                        n_individuals=n_individuals,
+                        n_individuals=self.n_individuals,
                         n_variables=n_variables,
                         list_objectives=[objectives[i]],
                         variables_range=variables_range,
@@ -98,9 +98,10 @@ class Problem:
 
             ## Lấy ra các elite
             list_elites = [
-                population.population[:self.nThread]
+                population.population[:2]
                 for population in self.list_populations
             ]
+
 
 
             ## Trong từng nhóm elite, lấy ra phần tử đầu tiên
@@ -141,7 +142,7 @@ class Problem:
             #######################
             # for population in self.list_populations:
             #     population.check()
-            self.list_populations[0].check()
+            # self.list_populations[0].check()
 
             if self.current_generation >= self.n_generations:
             # if self.current_generation >= 2:

@@ -32,7 +32,7 @@ class Utils:
             self.n_tourParticips    = 2
             self.tournament_prob    = 0.9
             self.crossover_param    = 2
-            self.mutation_param     = 2#5
+            self.mutation_param     = 5
 
 
     ##########################################################

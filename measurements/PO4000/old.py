@@ -6,8 +6,8 @@ import time
 from nsga2.problem import Problem
 from nsga2.evolution import Evolution
 
-from measurements.price_optimizator.utils import sort_by_rule
 
+from measurements.PO4000.utils import sort_by_rule
 
 
 def getScore(params, bds):
@@ -49,7 +49,7 @@ def getScore(params, bds):
 
 
 
-def optimizator(nGeneration=1000, nVariables=1, objectives=None, varRange=None, same_range=None):
+def optimizator(nGeneration=1000, nIndividuals=50, nVariables=1, objectives=None, varRange=None, same_range=None):
     """Hàm tìm bộ tham số tối ưu để tối thiểu hóa các hàm `objectives`
 
     Keyword Arguments:
@@ -77,7 +77,7 @@ def optimizator(nGeneration=1000, nVariables=1, objectives=None, varRange=None, 
     ##############################
     # Tiến hành minimize
     ##############################
-    evo = Evolution(problem, num_of_generations=nGeneration)
+    evo = Evolution(problem, num_of_generations=nGeneration, num_of_individuals=nIndividuals)
 
     start = time.time()
 
@@ -95,10 +95,10 @@ if __name__ == "__main__":
     rules = []
 
     print("1. Đọc data từ file 'data.json' và rule từ file `rules.csv`")
-    with open("measurements/price_optimizator/data4000.json", 'r') as dat_file:
+    with open("measurements/PO4000/data4000.json", 'r') as dat_file:
         list_bds = json.load(dat_file)
 
-    with open('measurements/price_optimizator/rules/rules.csv', 'r') as file_rules:
+    with open('measurements/PO4000/rules/rules.csv', 'r') as file_rules:
         csv_reader = csv.reader(file_rules, delimiter=',')
 
         for row in csv_reader:
@@ -160,6 +160,7 @@ if __name__ == "__main__":
         nVariables=5,
         objectives=[optimizator_kernel],
         varRange=[(0, 100)],
+        nIndividuals=70,
         same_range=True)
 
 

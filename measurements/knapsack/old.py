@@ -33,7 +33,10 @@ def optimizator(nGeneration=1000, nVariables=1, objectives=None, varRange=None, 
     ##############################
     # Tiến hành minimize
     ##############################
-    evo = Evolution(problem, num_of_generations=nGeneration, num_of_individuals=40)
+    evo = Evolution(
+        problem,
+        num_of_generations=nGeneration,
+        num_of_individuals=70)
 
     start = time.time()
 

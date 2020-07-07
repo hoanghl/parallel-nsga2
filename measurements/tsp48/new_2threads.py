@@ -18,7 +18,7 @@ if __name__ == "__main__":
     ###################################
     ## Đọc file dữ liệu các cities
     ###################################
-    def kernel_optimizator(*args):
+    def kernel_optimizator(args):
         ''' Đây là hàm nhân (kernel) của GA
 
         :Args:
@@ -27,29 +27,20 @@ if __name__ == "__main__":
         :Rets:
         float - là fitness level của bộ tham số H1, H2, K1, K2, K3
         '''
+        N = len(args) - 1
 
-        list_cities = []
+        list_cities = list(range(N + 1))
 
         ####################################
         ## Biến các input thành số nguyên và loại bỏ
         ## các gen không tốt
         ####################################
-        for x in args:
-            tmp = int(x) - 1
-            if tmp not in list_cities:
-                list_cities.append(tmp)
-            else:
-                flag = False
-                for k in range(tmp + 1, len(args), 1):
-                    if k not in list_cities:
-                        list_cities.append(k)
-                        flag = True
-                        break
-                if not flag:
-                    for k in range(tmp - 1, -1, -1):
-                        if k not in list_cities:
-                            list_cities.append(k)
-                            break
+        for ith, x in enumerate(args):
+            j = int(x)
+
+            if ith < j <= N:
+                list_cities[ith], list_cities[j] = list_cities[j], list_cities[ith]
+
 
 
         cul_distance = distances[list_cities[0]][list_cities[len(list_cities) - 1]]
@@ -62,26 +53,13 @@ if __name__ == "__main__":
         return cul_distance
 
 
-    # params, objectives = optimizator(
-    #     nGeneration=100,
-    #     nVariables=17,
-    #     objectives=[kernel_optimizator],
-    #     varRange=[(0, 16.9)],
-    #     same_range=True,
-    #     nIndividuals=800
-    # )
-
-
-    # print("Params    : {}".format(params))
-    # print("Objectives: {}".format(objectives))
-
     problem = Problem(
-        n_generations=500,
-        n_individuals=20,
+        n_generations=1000,
+        n_individuals=70,
         n_variables=48,
         variables_range=[(0, 47.9)],
         same_range=True,
-        expand=True,
+        expand=False,
         objectives=[kernel_optimizator],
         nThread=2)
 

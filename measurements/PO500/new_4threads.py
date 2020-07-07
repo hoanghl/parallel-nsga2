@@ -8,7 +8,7 @@ import time
 
 from Problem import Problem
 
-from measurements.price_optimizator.utils import sort_by_rule
+from measurements.PO500.utils import sort_by_rule
 
 
 
@@ -55,10 +55,10 @@ if __name__ == "__main__":
     rules = []
 
     print("1. Đọc data từ file 'data.json' và rule từ file `rules.csv`")
-    with open("measurements/price_optimizator/data4000.json", 'r') as dat_file:
+    with open("measurements/PO500/data500.json", 'r') as dat_file:
         list_bds = json.load(dat_file)
 
-    with open('measurements/price_optimizator/rules/rules.csv', 'r') as file_rules:
+    with open('measurements/PO500/rules/rules.csv', 'r') as file_rules:
         csv_reader = csv.reader(file_rules, delimiter=',')
 
         for row in csv_reader:
@@ -82,6 +82,8 @@ if __name__ == "__main__":
     list_bds = sort_by_rule(list_bds, input_rules=rules)
 
     list_bds_backup = deepcopy(list_bds)
+    list_bds_backup2 = deepcopy(list_bds)
+    list_bds_backup3 = deepcopy(list_bds)
 
     ##########################################################
     # Tiến hành tìm bộ tham số tối ưu
@@ -145,6 +147,62 @@ if __name__ == "__main__":
         ####################################
         return math.sqrt(sum([(i - bds['rank'])**2 for i, bds in enumerate(list_bds_backup)]))
 
+    def optimizator_kernel3(*args):
+        """Đây chính là hàm objective để chạy tối ưu NSGA-2
+
+        Returns:
+            [type] -- [description]
+        """
+
+        H1, H2, K1, K2, K3 = args
+
+        ####################################
+        ## Tính điểm cho từng bài bds
+        ####################################
+
+        for bds in list_bds_backup2:
+            getScore(params=(H1, H2, K1, K2, K3), bds=bds)
+
+
+        ####################################
+        ## Sắp xếp các bài bds theo điểm
+        ####################################
+        list_bds_backup2.sort(key=lambda x:x['score'], reverse=True)
+
+
+        ####################################
+        ## Tính tổng sai khác thứ hạng
+        ####################################
+        return math.sqrt(sum([(i - bds['rank'])**2 for i, bds in enumerate(list_bds_backup2)]))
+
+    def optimizator_kernel4(*args):
+        """Đây chính là hàm objective để chạy tối ưu NSGA-2
+
+        Returns:
+            [type] -- [description]
+        """
+
+        H1, H2, K1, K2, K3 = args
+
+        ####################################
+        ## Tính điểm cho từng bài bds
+        ####################################
+
+        for bds in list_bds_backup3:
+            getScore(params=(H1, H2, K1, K2, K3), bds=bds)
+
+
+        ####################################
+        ## Sắp xếp các bài bds theo điểm
+        ####################################
+        list_bds_backup3.sort(key=lambda x:x['score'], reverse=True)
+
+
+        ####################################
+        ## Tính tổng sai khác thứ hạng
+        ####################################
+        return math.sqrt(sum([(i - bds['rank'])**2 for i, bds in enumerate(list_bds_backup3)]))
+
 
     # param_set, score = optimizator(
     #     nGeneration=1000,
@@ -154,13 +212,13 @@ if __name__ == "__main__":
     #     same_range=True)
 
     problem = Problem(
-        n_generations=500,
-        n_individuals=20,
+        n_generations=1000,
+        n_individuals=70,
         n_variables=5,
         variables_range=[(0, 1)],
         same_range=True,
-        objectives=[optimizator_kernel, optimizator_kernel2],
-        nThread=2,
+        objectives=[optimizator_kernel, optimizator_kernel2, optimizator_kernel3, optimizator_kernel4],
+        nThread=4,
         isSame=True)
 
 
