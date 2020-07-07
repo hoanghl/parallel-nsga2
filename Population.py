@@ -50,15 +50,15 @@ class Population():
     def run(self):
         """ Tiến hành tiến hóa 1 thế hệ
         """
-        for _ in range(self.nThread):
+
+        for _ in range(1):
 
             # print("{} ==> 1.  {:.6f}".format(self.popId, self.population[0].objectives[0]))
 
 
-            self.utils.fast_nondominated_sort(self)     # DEBUG: Problem occurs here
+            self.utils.fast_nondominated_sort(self)
 
             ## Tính toán crowding distance của các front
-            ## NOTE: [May 29] : Sau khi chạy ổn định có thể comment 2 dòng này
             for front in self.fronts:
                 self.utils.calculate_crowding_distance(front)
 
@@ -113,6 +113,7 @@ class Population():
             ## DEBUG
             ################################
             #     self.population[0].check(self.popId)
+        # print("{} ==> 1.  {:.6f}".format(self.popId, self.population[0].objectives[0]))
 
         # if self.population[0].objectives[0] == 0 and self.popId == 0:
         #     # print("here is 0")

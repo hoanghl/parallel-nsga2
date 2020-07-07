@@ -25,6 +25,7 @@ def optimizator(nGeneration=1000, nVariables=1, objectives=None, varRange=None, 
         num_of_variables=nVariables,
         objectives=objectives,
         variables_range=varRange,
+        expand=False,
         same_range=same_range)
 
 
@@ -49,7 +50,7 @@ if __name__ == "__main__":
     ## Đọc file dữ liệu các cities
     ###################################
     distances = []
-    with open('measurements/tsp42/data_42cities.txt', 'r') as dat_file:
+    with open('measurements/tsp17/data_17cities.txt', 'r') as dat_file:
         for line in dat_file.readlines():
             distances.append([int(line[i:i+4]) for i in range(0, len(line) - 1, 4)])
 
@@ -58,7 +59,7 @@ if __name__ == "__main__":
     ###################################
     ## Đọc file dữ liệu các cities
     ###################################
-    def kernel_optimizator(*args):
+    def kernel_optimizator(args):
         ''' Đây là hàm nhân (kernel) của GA
 
         :Args:
@@ -82,6 +83,7 @@ if __name__ == "__main__":
                 list_cities[ith], list_cities[j] = list_cities[j], list_cities[ith]
 
 
+
         cul_distance = distances[list_cities[0]][list_cities[len(list_cities) - 1]]
         ####################################
         ## Tính toán đường đi
@@ -94,11 +96,11 @@ if __name__ == "__main__":
 
     params, score, elapsedTime = optimizator(
         nGeneration=1000,
-        nIndividuals=70,
-        nVariables=42,
+        nVariables=17,
         objectives=[kernel_optimizator],
-        varRange=[(0, 41.9)],
-        same_range=True
+        varRange=[(0, 16.9)],
+        same_range=True,
+        nIndividuals=70
     )
 
 

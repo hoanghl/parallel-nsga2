@@ -3,7 +3,7 @@ import time
 from nsga2.problem import Problem
 from nsga2.evolution import Evolution
 
-def optimizator(nGeneration=1000, nVariables=1, objectives=None, varRange=None, same_range=None, nIndividuals=50):
+def optimizator(nGeneration=1000, nVariables=1, objectives=None, varRange=None, same_range=None, expand=False, nIndividuals=50):
     """Hàm tìm bộ tham số tối ưu để tối thiểu hóa các hàm `objectives`
 
     Keyword Arguments:
@@ -25,6 +25,7 @@ def optimizator(nGeneration=1000, nVariables=1, objectives=None, varRange=None, 
         num_of_variables=nVariables,
         objectives=objectives,
         variables_range=varRange,
+        expand=expand,
         same_range=same_range)
 
 
@@ -59,7 +60,7 @@ if __name__ == "__main__":
     ###################################
     ## Đọc file dữ liệu các cities
     ###################################
-    def kernel_optimizator(*args):
+    def kernel_optimizator(args):
         ''' Đây là hàm nhân (kernel) của GA
 
         :Args:
@@ -68,29 +69,19 @@ if __name__ == "__main__":
         :Rets:
         float - là fitness level của bộ tham số H1, H2, K1, K2, K3
         '''
+        N = len(args) - 1
 
-        list_cities = []
+        list_cities = list(range(N + 1))
 
         ####################################
         ## Biến các input thành số nguyên và loại bỏ
         ## các gen không tốt
         ####################################
-        for x in args:
-            tmp = int(x)
-            if tmp not in list_cities:
-                list_cities.append(tmp)
-            else:
-                flag = False
-                for k in range(tmp + 1, len(args), 1):
-                    if k not in list_cities:
-                        list_cities.append(k)
-                        flag = True
-                        break
-                if not flag:
-                    for k in range(tmp - 1, -1, -1):
-                        if k not in list_cities:
-                            list_cities.append(k)
-                            break
+        for ith, x in enumerate(args):
+            j = int(x)
+
+            if ith < j <= N:
+                list_cities[ith], list_cities[j] = list_cities[j], list_cities[ith]
 
 
         cul_distance = distances[list_cities[0]][list_cities[len(list_cities) - 1]]
@@ -114,7 +105,7 @@ if __name__ == "__main__":
         objectives=[kernel_optimizator],
         varRange=[(0, 4.9)],
         same_range=True,
-        nIndividuals=50
+        nIndividuals=70
     )
 
 

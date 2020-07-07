@@ -36,7 +36,7 @@ if __name__ == "__main__":
     #     expand=False)
     problem = Problem(
         n_generations=500,
-        n_individuals=20,
+        n_individuals=70,
         n_variables=MAX_N_THINGS,
         variables_range=[(0, 1)],
         same_range=True,
